@@ -1,0 +1,53 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1801" measuredH="1123" mockupW="1729" mockupH="1083">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="1573" y="40" w="-1" h="-1" measuredW="198" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Disposition</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::DataGrid" x="135" y="40" w="874" h="664" measuredW="755" measuredH="662" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>16777215</alternateRowColor>
+        <borderStyle>none</borderStyle>
+        <hasHeader>true</hasHeader>
+        <hLines>false</hLines>
+        <rowHeight>42</rowHeight>
+        <size>24</size>
+        <text>Lieferant%2C%20Adresse%2C%20Bestellschluss%2C%20Status%0A25227%20Frifrench%20GmbH%2C%209063%20Stein%20AR%2C%2010%3A00%2C%20%28o%29%0A40500%20Volg%20Weinkellereien%2C%208401%20Winterthur%2C%2010%3A00%2C%20%5Bx%5D%0A13400%20Guldig%20Honig%2C%204057%20Basel%2C%2010%3A00%2C%20%5B-%5D%0A23880%20Kerner%20AG%2C%207012%20Felsberg%2C%2010%3A30%2C%20%5B%5D%0A34033%20Famag%20Poulet%2C%205032%20Aarau%20Rohr%2C%2011%3A00%2C%20%5B%5D%0A.%0A.%0A.%0A.%0A.%0A.%0A.%0A.%0A.%0A.%0A%7B20L%2C%2015L%2C%2011R%2C%200C%7D</text>
+        <vLines>false</vLines>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::HRule" x="72" y="1018" w="1729" h="-1" measuredW="100" measuredH="10" zOrder="3" locked="false" isInGroup="-1"/>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Arrow" x="82" y="88" w="38" h="10" measuredW="150" measuredH="100" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <direction>top</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Paragraph" x="123" y="1043" w="895" h="80" measuredW="275" measuredH="80" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>*25227%20Frifrench%20GmbH%2C%209063%20Stein%20AR*%0A%20%0AProdukte%2072%09%09Letzter%20Einkauf%09Datum%0922.05.14%2C%20Wert%098%27375.18%20CHF</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::RoundButton" x="812" y="1001" w="229" h="32" measuredW="32" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>16777215</borderColor>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::IconLabel" x="820" y="1009" w="244" h="-1" measuredW="185" measuredH="24" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <href>Disposition%20-%20Produkte%26bm%3BDisposition%20-%20Produkte.bmml%26bm%3BDisposition%20-%20Produkte.bmml%26bm%3BDisposition%20-%20Produkte.bmml</href>
+        <icon>UpTriangleIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22748%2C969%2C992%2C993%22%20href%3D%22Disposition%2520-%2520Produkte.bmml%22%20alt%3D%22Disposition%20-%20Produkte%22%20id%3D%2215%22/%3E</map>
+        <text>Produkte%20anzeigen%20%28Enter%29</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -7,9 +7,9 @@
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="149" y="122" w="-1" h="-1" measuredW="762" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="149" y="122" w="-1" h="-1" measuredW="734" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Kunde%20Volg%20Geuensee%20-%20Auftrags%FCbersicht</text>
+        <text>Kunde%20Volg%20Seuzach%20-%20Auftrags%FCbersicht</text>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="1316" y="123" w="-1" h="-1" measuredW="275" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
@@ -375,51 +375,61 @@
         <text>Hinzuf%FCgen</text>
       </controlProperties>
     </control>
-    <control controlID="108" controlTypeID="com.balsamiq.mockups::Button" x="1521" y="831" w="-1" h="-1" measuredW="126" measuredH="27" zOrder="64" locked="false" isInGroup="-1">
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Button" x="1521" y="831" w="-1" h="-1" measuredW="126" measuredH="27" zOrder="66" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Schliessen%20%28ESC%29</text>
       </controlProperties>
     </control>
-    <control controlID="110" controlTypeID="com.balsamiq.mockups::Canvas" x="1260" y="170" w="396" h="153" measuredW="100" measuredH="70" zOrder="65" locked="false" isInGroup="-1">
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::Canvas" x="1260" y="170" w="396" h="153" measuredW="100" measuredH="70" zOrder="67" locked="false" isInGroup="-1">
       <controlProperties>
         <color>14540253</color>
       </controlProperties>
     </control>
-    <control controlID="111" controlTypeID="com.balsamiq.mockups::Label" x="1291" y="197" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="66" locked="false" isInGroup="-1">
+    <control controlID="111" controlTypeID="com.balsamiq.mockups::Label" x="1291" y="197" w="-1" h="-1" measuredW="46" measuredH="21" zOrder="68" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Kontakt</text>
       </controlProperties>
     </control>
-    <control controlID="112" controlTypeID="com.balsamiq.mockups::TextInput" x="1291" y="217" w="334" h="-1" measuredW="79" measuredH="26" zOrder="67" locked="false" isInGroup="-1">
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::TextInput" x="1291" y="217" w="334" h="-1" measuredW="79" measuredH="26" zOrder="69" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="113" controlTypeID="com.balsamiq.mockups::Button" x="1584" y="266" w="-1" h="-1" measuredW="41" measuredH="27" zOrder="68" locked="false" isInGroup="-1">
+    <control controlID="113" controlTypeID="com.balsamiq.mockups::Button" x="1584" y="266" w="-1" h="-1" measuredW="41" measuredH="27" zOrder="70" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Auftrags%FCbersicht%26bm%3BAuftrags%FCbersicht.bmml%26bm%3BAuftrags%FCbersicht.bmml%26bm%3BAuftrags%FCbersicht.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221491%2C253%2C1532%2C280%22%20href%3D%22Auftrags%25C3%25BCbersicht.bmml%22%20alt%3D%22Auftrags%FCbersicht%22%20id%3D%22113%22/%3E</map>
         <text>OK</text>
       </controlProperties>
     </control>
-    <control controlID="114" controlTypeID="com.balsamiq.mockups::Button" x="1291" y="266" w="-1" h="-1" measuredW="38" measuredH="27" zOrder="69" locked="false" isInGroup="-1">
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::Button" x="1291" y="266" w="-1" h="-1" measuredW="38" measuredH="27" zOrder="71" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CopyIcon%7Cxsmall</icon>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="115" controlTypeID="com.balsamiq.mockups::Button" x="1344" y="266" w="-1" h="-1" measuredW="100" measuredH="27" zOrder="70" locked="false" isInGroup="-1">
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::Button" x="1344" y="266" w="-1" h="-1" measuredW="100" measuredH="27" zOrder="72" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Auftrags%FCbersicht%26bm%3BAuftrags%FCbersicht.bmml%26bm%3BAuftrags%FCbersicht.bmml%26bm%3BAuftrags%FCbersicht.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221251%2C253%2C1351%2C280%22%20href%3D%22Auftrags%25C3%25BCbersicht.bmml%22%20alt%3D%22Auftrags%FCbersicht%22%20id%3D%22115%22/%3E</map>
         <text>Nicht%20erreicht</text>
       </controlProperties>
     </control>
-    <control controlID="116" controlTypeID="com.balsamiq.mockups::Button" x="1459" y="266" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="71" locked="false" isInGroup="-1">
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::Button" x="1459" y="266" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="73" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Auftrags%FCbersicht%26bm%3BAuftrags%FCbersicht.bmml%26bm%3BAuftrags%FCbersicht.bmml%26bm%3BAuftrags%FCbersicht.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221366%2C253%2C1478%2C280%22%20href%3D%22Auftrags%25C3%25BCbersicht.bmml%22%20alt%3D%22Auftrags%FCbersicht%22%20id%3D%22116%22/%3E</map>
         <text>Sp%E4ter%20anrufen</text>
+      </controlProperties>
+    </control>
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::Label" x="837" y="268" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="64" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Bemerkung</text>
+      </controlProperties>
+    </control>
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::TextInput" x="837" y="289" w="625" h="-1" measuredW="79" measuredH="26" zOrder="65" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
       </controlProperties>
     </control>
   </controls>

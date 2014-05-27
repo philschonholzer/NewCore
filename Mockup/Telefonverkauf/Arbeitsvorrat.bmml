@@ -421,9 +421,15 @@
         <backgroundAlpha>0.5</backgroundAlpha>
         <borderStyle>none</borderStyle>
         <color>16777215</color>
+        <href>Auftrags%FCbersicht%26bm%3BAuftrags%FCbersicht.bmml%26bm%3BAuftrags%FCbersicht.bmml%26bm%3BAuftrags%FCbersicht.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22429%2C440%2C727%2C463%22%20href%3D%22Auftrags%25C3%25BCbersicht.bmml%22%20alt%3D%22Auftrags%FCbersicht%22%20id%3D%2279%22/%3E</map>
       </controlProperties>
     </control>
-    <control controlID="80" controlTypeID="com.balsamiq.mockups::HorizontalScrollBar" x="106" y="808" w="1577" h="-1" measuredW="100" measuredH="16" zOrder="65" locked="false" isInGroup="-1"/>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::HorizontalScrollBar" x="106" y="808" w="1577" h="-1" measuredW="100" measuredH="16" zOrder="65" locked="false" isInGroup="-1">
+      <controlProperties>
+        <value>100</value>
+      </controlProperties>
+    </control>
     <control controlID="83" controlTypeID="com.balsamiq.mockups::IconLabel" x="721" y="222" w="-1" h="-1" measuredW="60" measuredH="24" zOrder="66" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>ClockIcon%7Csmall</icon>

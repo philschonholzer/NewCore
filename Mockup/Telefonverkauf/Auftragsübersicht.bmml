@@ -7,9 +7,9 @@
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="149" y="122" w="-1" h="-1" measuredW="762" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="149" y="122" w="-1" h="-1" measuredW="734" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Kunde%20Volg%20Geuensee%20-%20Auftrags%FCbersicht</text>
+        <text>Kunde%20Volg%20Seuzach%20-%20Auftrags%FCbersicht</text>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="1316" y="123" w="-1" h="-1" measuredW="275" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
@@ -379,6 +379,8 @@
     </control>
     <control controlID="108" controlTypeID="com.balsamiq.mockups::Button" x="1550" y="831" w="-1" h="-1" measuredW="126" measuredH="27" zOrder="64" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Arbeitsvorrat%26bm%3BArbeitsvorrat.bmml%26bm%3BArbeitsvorrat.bmml%26bm%3BArbeitsvorrat.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221457%2C818%2C1583%2C845%22%20href%3D%22Arbeitsvorrat.bmml%22%20alt%3D%22Arbeitsvorrat%22%20id%3D%22108%22/%3E</map>
         <text>Schliessen%20%28ESC%29</text>
       </controlProperties>
     </control>

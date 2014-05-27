@@ -12,14 +12,16 @@
         <text>Kunde%20Volg%20Geuensee%20-%20Auftrags%FCbersicht</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="1176" y="122" w="-1" h="-1" measuredW="275" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="1316" y="123" w="-1" h="-1" measuredW="275" measuredH="43" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>041%20920%2034%2025</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="1471" y="120" w="46" h="38" measuredW="46" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="1611" y="121" w="46" h="38" measuredW="46" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Anrufdialog%26bm%3BAnrufdialog.bmml%26bm%3BAnrufdialog.bmml%26bm%3BAnrufdialog.bmml</href>
         <icon>PhoneDialIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221518%2C108%2C1564%2C146%22%20href%3D%22Anrufdialog.bmml%22%20alt%3D%22Anrufdialog%22%20id%3D%224%22/%3E</map>
         <text/>
       </controlProperties>
     </control>
@@ -380,9 +382,14 @@
         <text>Schliessen%20%28ESC%29</text>
       </controlProperties>
     </control>
-    <control controlID="109" controlTypeID="com.balsamiq.mockups::Button" x="1535" y="126" w="-1" h="-1" measuredW="122" measuredH="27" zOrder="65" locked="false" isInGroup="-1">
+    <control controlID="109" controlTypeID="com.balsamiq.mockups::Label" x="837" y="268" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="65" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Sp%E4te%28r%29%20anrufen</text>
+        <text>Bemerkung</text>
+      </controlProperties>
+    </control>
+    <control controlID="110" controlTypeID="com.balsamiq.mockups::TextInput" x="837" y="289" w="625" h="-1" measuredW="79" measuredH="26" zOrder="66" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
       </controlProperties>
     </control>
   </controls>

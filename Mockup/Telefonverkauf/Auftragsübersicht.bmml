@@ -261,10 +261,10 @@
         <text>Hinzuf%FCgen</text>
       </controlProperties>
     </control>
-    <control controlID="108" controlTypeID="com.balsamiq.mockups::Button" x="1108" y="205" w="-1" h="-1" measuredW="126" measuredH="27" zOrder="43" locked="false" isInGroup="-1">
+    <control controlID="108" controlTypeID="com.balsamiq.mockups::Button" x="1102" y="836" w="-1" h="-1" measuredW="126" measuredH="27" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Arbeitsvorrat%26bm%3BArbeitsvorrat.bmml%26bm%3BArbeitsvorrat.bmml%26bm%3BArbeitsvorrat.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221015%2C192%2C1141%2C219%22%20href%3D%22Arbeitsvorrat.bmml%22%20alt%3D%22Arbeitsvorrat%22%20id%3D%22108%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221009%2C823%2C1135%2C850%22%20href%3D%22Arbeitsvorrat.bmml%22%20alt%3D%22Arbeitsvorrat%22%20id%3D%22108%22/%3E</map>
         <text>Schliessen%20%28ESC%29</text>
       </controlProperties>
     </control>
@@ -316,7 +316,7 @@
         <color>15658734</color>
         <rowHeight>37</rowHeight>
         <size>16</size>
-        <text>%20%20%0A%281%29%092051%09Kopfsalat%20gr%FCn%0A%282%29%091147%09Chiquita%20Bananen%0A%20%0A%283%29%093051%20%09Forelle%0A%284%29%093074%09Dorsch%0A%285%29%09XXXX%09Mehr%20Fisch%0A%286%29%09XXXX%09Fleisch%0A%287%29%09XXXX%09Mehr%20Fleisch%0A%20%20%0A%288%29%094038%09Frischk%E4se%0A%289%29%094029%09Fleischk%E4se%0A%280%29%094109%09Mozzarella%0A%20%0A%09XXXX%09Mozzarella%20Dreierpack%0A%09....%09....</text>
+        <text>%20%20%0A%281%29%091179%09Mini%20Wassermelone%208%20er%0A%282%29%091147%09Chiquita%20Bananen%0A%20%0A%283%29%093051%20%09Forelle%0A%284%29%093074%09Dorsch%0A%285%29%09XXXX%09Mehr%20Fisch%0A%286%29%09XXXX%09Fleisch%0A%287%29%09XXXX%09Mehr%20Fleisch%0A%20%20%0A%288%29%094038%09Frischk%E4se%0A%289%29%094029%09Fleischk%E4se%0A%280%29%094109%09Mozzarella%0A%20%0A%09XXXX%09Mozzarella%20Dreierpack%0A%09....%09....</text>
       </controlProperties>
     </control>
     <control controlID="119" controlTypeID="com.balsamiq.mockups::Label" x="1309" y="203" w="-1" h="-1" measuredW="55" measuredH="21" zOrder="53" locked="false" isInGroup="-1">

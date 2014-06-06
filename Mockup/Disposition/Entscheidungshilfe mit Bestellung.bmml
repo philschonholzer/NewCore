@@ -22,11 +22,6 @@
         <text>Reichmuth%20K%E4se</text>
       </controlProperties>
     </control>
-    <control controlID="175" controlTypeID="com.balsamiq.mockups::Image" x="174" y="165" w="-1" h="-1" measuredW="1295" measuredH="695" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <src>./assets/Chart.png</src>
-      </controlProperties>
-    </control>
     <control controlID="176" controlTypeID="com.balsamiq.mockups::Label" x="159" y="239" w="-1" h="-1" measuredW="56" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <size>24</size>
@@ -37,6 +32,12 @@
       <controlProperties>
         <size>24</size>
         <text>2013</text>
+      </controlProperties>
+    </control>
+    <control controlID="178" controlTypeID="com.balsamiq.mockups::Image" x="167" y="164" w="-1" h="-1" measuredW="1311" measuredH="692" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/ChartOrder.png</src>
+        <text/>
       </controlProperties>
     </control>
   </controls>

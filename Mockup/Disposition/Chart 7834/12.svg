@@ -1,0 +1,578 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="1440" height="1000" viewBox="0 0 1440.00 1000.00" enable-background="new 0 0 1440.00 1000.00" xml:space="preserve">
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,51.00,477.00)" xlink:href="12_files/image5963.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,610.80,477.00)" xlink:href="12_files/image5964.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,890.80,477.00)" xlink:href="12_files/image5965.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.4" transform="matrix(1.00,0.00,0.00,1.00,1170.80,477.00)" xlink:href="12_files/image5966.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,90.04,477.00)" xlink:href="12_files/image5967.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,649.84,477.00)" xlink:href="12_files/image5968.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,929.84,477.00)" xlink:href="12_files/image5969.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.4" transform="matrix(1.00,0.00,0.00,1.00,1209.84,477.00)" xlink:href="12_files/image5970.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,370.04,477.00)" xlink:href="12_files/image5971.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,129.92,477.00)" xlink:href="12_files/image5972.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,689.72,477.00)" xlink:href="12_files/image5973.png"/>
+	<image x="0" y="0" width="20" height="20" transform="matrix(1.00,0.00,0.00,1.00,969.72,477.00)" xlink:href="12_files/image5974.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.4" transform="matrix(1.00,0.00,0.00,1.00,1249.72,477.00)" xlink:href="12_files/image5975.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,409.92,477.00)" xlink:href="12_files/image5976.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,170.20,477.00)" xlink:href="12_files/image5977.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.4" transform="matrix(1.00,0.00,0.00,1.00,1010.00,477.00)" xlink:href="12_files/image5978.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.4" transform="matrix(1.00,0.00,0.00,1.00,1290.00,477.00)" xlink:href="12_files/image5979.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,450.20,477.00)" xlink:href="12_files/image5980.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,90.42,500.00)" xlink:href="12_files/image5981.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,410.00,500.00)" xlink:href="12_files/image5982.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,130.42,500.00)" xlink:href="12_files/image5983.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,450.00,500.00)" xlink:href="12_files/image5984.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,170.42,500.00)" xlink:href="12_files/image5985.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,210.00,500.00)" xlink:href="12_files/image5986.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,490.00,500.00)" xlink:href="12_files/image5987.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,650.00,500.00)" xlink:href="12_files/image5988.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,930.00,500.00)" xlink:href="12_files/image5989.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.4" transform="matrix(1.00,0.00,0.00,1.00,1210.00,500.00)" xlink:href="12_files/image5990.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,690.00,500.00)" xlink:href="12_files/image5991.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,970.00,500.00)" xlink:href="12_files/image5992.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.4" transform="matrix(1.00,0.00,0.00,1.00,1250.00,500.00)" xlink:href="12_files/image5993.png"/>
+	<image x="0" y="0" width="20" height="20" transform="matrix(1.00,0.00,0.00,1.00,1010.00,500.00)" xlink:href="12_files/image5994.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.4" transform="matrix(1.00,0.00,0.00,1.00,1290.00,500.00)" xlink:href="12_files/image5995.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.104997" transform="matrix(1.00,0.00,0.00,1.00,770.00,500.00)" xlink:href="12_files/image5996.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.4" transform="matrix(1.00,0.00,0.00,1.00,1050.00,500.00)" xlink:href="12_files/image5997.png"/>
+	<image x="0" y="0" width="20" height="20" opacity="0.4" transform="matrix(1.00,0.00,0.00,1.00,1330.00,500.00)" xlink:href="12_files/image5998.png"/>
+	<g>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.105882" x1="71.8735" y1="487.851" x2="87.8735" y2="512.184"/>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.105882" x1="112" y1="487.851" x2="128" y2="512.184"/>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.105882" x1="152" y1="487.851" x2="168" y2="512.184"/>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.105882" x1="192" y1="487.851" x2="208" y2="512.184"/>
+	</g>
+	<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.105882" x1="391.873" y1="487.667" x2="407.873" y2="512"/>
+	<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.105882" x1="432" y1="487.667" x2="448" y2="512"/>
+	<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.105882" x1="472" y1="487.667" x2="488" y2="512"/>
+	<g>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.105882" x1="632" y1="488" x2="648" y2="512.333"/>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.105882" x1="672.127" y1="488" x2="688.127" y2="512.333"/>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.105882" x1="712.127" y1="488" x2="765.75" y2="512.75"/>
+	</g>
+	<g>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.101961" x1="912" y1="488" x2="928" y2="512.333"/>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.101961" x1="950.665" y1="485.803" x2="966.665" y2="510.136"/>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="992.127" y1="488" x2="1008.13" y2="512.333"/>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.301961" x1="1032.13" y1="488" x2="1048.13" y2="512.333"/>
+	</g>
+	<g>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.403922" x1="1192" y1="488" x2="1208" y2="512.333"/>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.403922" x1="1232.13" y1="488" x2="1248.13" y2="512.333"/>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.403922" x1="1272.13" y1="488" x2="1288.13" y2="512.333"/>
+		<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.403922" x1="1312.13" y1="488" x2="1328.13" y2="512.333"/>
+	</g>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,360.00,40.00)" xlink:href="12_files/image5999.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,360.00,540.00)" xlink:href="12_files/image6000.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,480.00,40.00)" xlink:href="12_files/image6001.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,480.00,540.00)" xlink:href="12_files/image6002.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,920.00,40.00)" xlink:href="12_files/image6003.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,920.00,540.00)" xlink:href="12_files/image6004.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,680.00,40.00)" xlink:href="12_files/image6005.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,680.00,540.00)" xlink:href="12_files/image6006.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1120.00,40.00)" xlink:href="12_files/image6007.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1120.00,540.00)" xlink:href="12_files/image6008.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,760.00,40.00)" xlink:href="12_files/image6009.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,760.00,540.00)" xlink:href="12_files/image6010.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1200.00,40.00)" xlink:href="12_files/image6011.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1200.00,540.00)" xlink:href="12_files/image6012.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1360.00,40.00)" xlink:href="12_files/image6013.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1360.00,540.00)" xlink:href="12_files/image6014.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,800.00,40.00)" xlink:href="12_files/image6015.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,800.00,540.00)" xlink:href="12_files/image6016.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1240.00,40.00)" xlink:href="12_files/image6017.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1240.00,540.00)" xlink:href="12_files/image6018.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1400.00,40.00)" xlink:href="12_files/image6019.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1400.00,540.00)" xlink:href="12_files/image6020.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,840.00,40.00)" xlink:href="12_files/image6021.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,840.00,540.00)" xlink:href="12_files/image6022.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,400.00,40.00)" xlink:href="12_files/image6023.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,400.00,540.00)" xlink:href="12_files/image6024.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,520.00,40.00)" xlink:href="12_files/image6025.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,520.00,540.00)" xlink:href="12_files/image6026.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,960.00,40.00)" xlink:href="12_files/image6027.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,960.00,540.00)" xlink:href="12_files/image6028.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,560.00,40.00)" xlink:href="12_files/image6029.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,560.00,540.00)" xlink:href="12_files/image6030.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1000.00,40.00)" xlink:href="12_files/image6031.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1000.00,540.00)" xlink:href="12_files/image6032.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,440.00,40.00)" xlink:href="12_files/image6033.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,440.00,540.00)" xlink:href="12_files/image6034.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,880.00,40.00)" xlink:href="12_files/image6035.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,880.00,540.00)" xlink:href="12_files/image6036.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1280.00,40.00)" xlink:href="12_files/image6037.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1280.00,540.00)" xlink:href="12_files/image6038.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,240.00,40.00)" xlink:href="12_files/image6039.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,240.00,540.00)" xlink:href="12_files/image6040.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,280.00,40.00)" xlink:href="12_files/image6041.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,280.00,540.00)" xlink:href="12_files/image6042.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,320.00,40.00)" xlink:href="12_files/image6043.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,320.00,540.00)" xlink:href="12_files/image6044.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,200.00,40.00)" xlink:href="12_files/image6045.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,200.00,540.00)" xlink:href="12_files/image6046.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,160.00,40.00)" xlink:href="12_files/image6047.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,160.00,540.00)" xlink:href="12_files/image6048.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,40.00,40.00)" xlink:href="12_files/image6049.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,40.00,540.00)" xlink:href="12_files/image6050.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,80.00,40.00)" xlink:href="12_files/image6051.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,80.00,540.00)" xlink:href="12_files/image6052.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,600.00,40.00)" xlink:href="12_files/image6053.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,600.00,540.00)" xlink:href="12_files/image6054.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1040.00,40.00)" xlink:href="12_files/image6055.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1040.00,540.00)" xlink:href="12_files/image6056.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,120.00,40.00)" xlink:href="12_files/image6057.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,120.00,540.00)" xlink:href="12_files/image6058.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,640.00,40.00)" xlink:href="12_files/image6059.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,640.00,540.00)" xlink:href="12_files/image6060.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1080.00,40.00)" xlink:href="12_files/image6061.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1080.00,540.00)" xlink:href="12_files/image6062.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,720.00,40.00)" xlink:href="12_files/image6063.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,720.00,540.00)" xlink:href="12_files/image6064.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1160.00,40.00)" xlink:href="12_files/image6065.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1160.00,540.00)" xlink:href="12_files/image6066.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1320.00,40.00)" xlink:href="12_files/image6067.png"/>
+	<image x="0" y="0" width="60" height="60" transform="matrix(0.67,0.00,0.00,0.67,1320.00,540.00)" xlink:href="12_files/image6068.png"/>
+	<line fill="none" stroke-width="3" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="-0.000109355" y1="500" x2="1440" y2="500"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="39.9998" y1="120" x2="39.9998" y2="500"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="40" y1="619.998" x2="40" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="400" y1="20.0009" x2="400" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="760" y1="20.0012" x2="760" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1120" y1="20.0012" x2="1120" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="79.9998" y1="20.0009" x2="79.9998" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="440" y1="20.0009" x2="440" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="800" y1="20.0012" x2="800" y2="1000"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1160" y1="0.000671387" x2="1160" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="120" y1="20.0009" x2="120" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="480" y1="20.0009" x2="480" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="840" y1="20.0012" x2="840" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1200" y1="20.0008" x2="1200" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="160" y1="20.0009" x2="160" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="520" y1="20.0009" x2="520" y2="1000"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="880" y1="0.000671387" x2="880" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1240" y1="20.0008" x2="1240" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="200" y1="20.0009" x2="200" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="560" y1="20.0009" x2="560" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="920" y1="20.0012" x2="920" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1280" y1="20.0008" x2="1280" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="240" y1="20.0009" x2="240" y2="1000"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="600" y1="0.000732422" x2="600" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="960" y1="20.0012" x2="960" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1320" y1="20.0008" x2="1320" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="280" y1="20.0009" x2="280" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="640" y1="20.0012" x2="640" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1000" y1="20.0012" x2="1000" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1360" y1="20.0008" x2="1360" y2="1000"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="320" y1="0.000732422" x2="320" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="680" y1="20.0012" x2="680" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1040" y1="20.0012" x2="1040" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1400" y1="20.0008" x2="1400" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="359.999" y1="20.0009" x2="359.999" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="720" y1="20.0012" x2="720" y2="1000"/>
+	<line fill="none" stroke-width="0.200002" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1080" y1="20.0012" x2="1080" y2="1000"/>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 49.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Mo</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 329.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Mo</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 609.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Mo</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 889.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Mo</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1169.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Mo</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 93.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Di</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 373.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Di</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 653.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Di</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 933.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Di</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1213.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Di</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 132.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Mi</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 412.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Mi</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 692.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Mi</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 972.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Mi</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1252.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Mi</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 170.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Do</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 450.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Do</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 730.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Do</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1010.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Do</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1290.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Do</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 214.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Fr</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 494.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Fr</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 774.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Fr</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1054.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Fr</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1334.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Fr</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 252.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Sa</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 532.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Sa</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 812.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Sa</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1092.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Sa</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1372.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Sa</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 291.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">So</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 571.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">So</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 851.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">So</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1131.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">So</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1411.00 40.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">So</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 159.00 20.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">KW23</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 159.00 540.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">KW23</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1000.00 20.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">KW26</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1000.00 540.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">KW26</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 720.00 20.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">KW25</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 720.00 540.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">KW25</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 440.00 20.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">KW24</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 440.00 540.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">KW24</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1280.00 20.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">KW27</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1280.00 540.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">KW27</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 12.00 500.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">0</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 12.00 1000.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">0</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 13.00 440.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">3</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 13.00 940.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">3</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 12.00 340.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">8</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 12.00 840.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">8</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 4.00 180.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">16</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 4.00 680.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">16</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1424.00 180.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">16</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1424.00 680.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">16</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1432.00 340.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">8</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1432.00 840.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">8</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1433.00 440.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">3</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1433.00 940.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">3</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1432.00 500.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">0</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1432.00 1000.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">0</tspan>
+	</text>
+	<path fill="none" stroke-linejoin="round" stroke="#FF0000" stroke-opacity="1" d="M 1440,500L 4.06901e-005,500L 1440,500 Z "/>
+	<line fill="none" stroke-linejoin="round" stroke="#FF0000" stroke-opacity="1" x1="4.06901e-005" y1="180" x2="1440" y2="180"/>
+	<line fill="none" stroke-linejoin="round" stroke="#FF0000" stroke-opacity="1" x1="0" y1="680" x2="1440" y2="680"/>
+	<line fill="none" stroke-width="0.5" stroke-linejoin="round" stroke="#FF7D00" stroke-opacity="1" x1="4.06901e-005" y1="440" x2="1440" y2="440"/>
+	<line fill="none" stroke-width="0.5" stroke-linejoin="round" stroke="#FF7D00" stroke-opacity="1" x1="0" y1="940" x2="1440" y2="940"/>
+	<line fill="none" stroke-width="0.5" stroke-linejoin="round" stroke="#0096FF" stroke-opacity="1" x1="4.06901e-005" y1="340" x2="1440" y2="340"/>
+	<line fill="none" stroke-width="0.5" stroke-linejoin="round" stroke="#0096FF" stroke-opacity="1" x1="0" y1="840" x2="1440" y2="840"/>
+	<path fill="#0096FF" fill-opacity="0.298039" stroke-width="0.2" stroke-linejoin="round" d="M 959.999,20.0013L 999.999,20.0013L 1000,500L 960,500L 959.999,20.0013 Z "/>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 10.00 110.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:22.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">2014</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 11.00 609.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:22.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">2013</tspan>
+	</text>
+	<rect x="320" y="20" fill="#00C800" fill-opacity="0.262745" stroke-width="0.2" stroke-linejoin="round" width="40" height="480"/>
+	<rect x="280" y="20" fill="#00C800" fill-opacity="0.262745" stroke-width="0.2" stroke-linejoin="round" width="40" height="480"/>
+	<text transform="matrix(0.0000000000000000 -1.0000000000000000 1.0000000000000000 0.0000000000000000 345.00 194.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Pfingstmontag</tspan>
+	</text>
+	<text transform="matrix(0.0000000000000000 -1.0000000000000000 1.0000000000000000 0.0000000000000000 985.00 132.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Heute</tspan>
+	</text>
+	<text transform="matrix(0.0000000000000000 -1.0000000000000000 1.0000000000000000 0.0000000000000000 305.00 194.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">Pfingstsonntag</tspan>
+	</text>
+	<rect x="1400" y="20" fill="#00C800" fill-opacity="0.262745" stroke-width="3" stroke-linejoin="round" width="40" height="480"/>
+	<rect x="1080" y="520" fill="#00C800" fill-opacity="0.262745" stroke-width="3" stroke-linejoin="round" width="40" height="480"/>
+	<rect x="720" y="20" fill="#00C800" fill-opacity="0.262745" stroke-width="3" stroke-linejoin="round" width="40" height="480"/>
+	<text transform="matrix(0.0000000000000001 -0.9999998807907103 0.9999998807907103 0.0000000000000001 1425.00 192.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-linejoin="round">Peter und Paul</tspan>
+	</text>
+	<text transform="matrix(0.0000000000000001 -0.9999998807907103 0.9999998807907103 0.0000000000000001 1105.00 691.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-linejoin="round">Peter und Paul</tspan>
+	</text>
+	<text transform="matrix(0.0000000000000001 -0.9999998807907103 0.9999998807907103 0.0000000000000001 745.00 185.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI; font-size:12.000000pt;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-linejoin="round">Fronleichnam</tspan>
+	</text>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="240" y1="280" x2="280" y2="280"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="800" y1="860" x2="840" y2="860"/>
+	<path fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 160,200L 200,240L 240,280"/>
+	<path fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" d="M 720,780L 760,820L 800,860"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="160" y1="280" x2="160" y2="200"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="720" y1="860" x2="720" y2="780"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="120" y1="260" x2="160" y2="280"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="680" y1="840" x2="720" y2="860"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="80" y1="200" x2="120" y2="260"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="640" y1="780" x2="680" y2="840"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="80" y1="280" x2="80" y2="200"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="640" y1="860" x2="640" y2="780"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="40" y1="220" x2="80" y2="280"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="600" y1="800" x2="640" y2="860"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="280" y1="280" x2="320" y2="320"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="840" y1="860" x2="880" y2="900"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="320" y1="320" x2="360" y2="340"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="40" y1="800" x2="80" y2="820"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="880" y1="900" x2="920" y2="920"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="960" y1="340" x2="960" y2="260"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="920" y1="260" x2="960" y2="340"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="920" y1="340" x2="920" y2="260"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="880" y1="320" x2="920" y2="340"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="840" y1="280" x2="880" y2="320"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="560" y1="760" x2="600" y2="800"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1400" y1="860" x2="1440" y2="900"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="800" y1="280" x2="840" y2="280"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="520" y1="760" x2="560" y2="760"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1360" y1="860" x2="1400" y2="860"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="760" y1="180" x2="800" y2="280"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="480" y1="660" x2="520" y2="760"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1320" y1="760" x2="1360" y2="860"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="720" y1="140" x2="760" y2="180"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="440" y1="620" x2="480" y2="660"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1280" y1="720" x2="1320" y2="760"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="680" y1="220" x2="680" y2="140"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="400" y1="700" x2="400" y2="620"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1240" y1="800" x2="1240" y2="720"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="680" y1="140" x2="720" y2="140"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="400" y1="620" x2="440" y2="620"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1240" y1="720" x2="1280" y2="720"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="640" y1="220" x2="680" y2="220"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="360" y1="700" x2="400" y2="700"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1200" y1="800" x2="1240" y2="800"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="600" y1="200" x2="640" y2="220"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="320" y1="680" x2="360" y2="700"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1160" y1="780" x2="1200" y2="800"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="560" y1="160" x2="600" y2="200"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="280" y1="640" x2="320" y2="680"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1120" y1="740" x2="1160" y2="780"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="520" y1="160" x2="560" y2="160"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="240" y1="640" x2="280" y2="640"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1080" y1="740" x2="1120" y2="740"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="480" y1="80" x2="520" y2="160"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="200" y1="560" x2="240" y2="640"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1040" y1="660" x2="1080" y2="740"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="480" y1="160" x2="480" y2="80"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="200" y1="640" x2="200" y2="560"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1040" y1="740" x2="1040" y2="660"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="440" y1="160" x2="480" y2="160"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="160" y1="640" x2="200" y2="640"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1000" y1="740" x2="1040" y2="740"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="440" y1="240" x2="440" y2="160"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="160" y1="720" x2="160" y2="640"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="1000" y1="820" x2="1000" y2="740"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="400" y1="240" x2="440" y2="240"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="120" y1="720" x2="160" y2="720"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="960" y1="820" x2="1000" y2="820"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="400" y1="400" x2="400" y2="240"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="120" y1="880" x2="120" y2="720"/>
+	<line fill="none" stroke-width="5" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="960" y1="980" x2="960" y2="820"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="360" y1="340" x2="400" y2="400"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="80" y1="820" x2="120" y2="880"/>
+	<line fill="none" stroke-width="2" stroke-linejoin="round" stroke="#000000" stroke-opacity="1" x1="920" y1="920" x2="960" y2="980"/>
+	<path fill="#5A0FC8" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 680,140L 675.214,107.183L 658.461,114.783L 680,140 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.501961" stroke-width="0.2" stroke-linejoin="round" d="M 400,240L 395.214,207.184L 378.461,214.783L 400,240 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.203922" stroke-width="0.2" stroke-linejoin="round" d="M 121.539,260L 116.753,227.184L 100,234.783L 121.539,260 Z "/>
+	<path fill="#5A0FC8" fill-opacity="1" stroke-linejoin="round" d="M 1205.66,229.094L 1208.05,233.864L 1206.26,234.758L 1203.88,229.988L 1205.66,229.094 Z M 1210.44,238.634L 1212.82,243.404L 1211.03,244.299L 1208.65,239.529L 1210.44,238.634 Z M 1215.21,248.175L 1217.59,252.945L 1215.8,253.839L 1213.42,249.069L 1215.21,248.175 Z M 1219.98,257.715L 1222.36,262.486L 1220.57,263.38L 1218.19,258.61L 1219.98,257.715 Z M 1224.75,267.256L 1227.13,272.026L 1225.34,272.92L 1222.96,268.15L 1224.75,267.256 Z M 1229.52,276.796L 1231.9,281.567L 1230.11,282.461L 1227.73,277.691L 1229.52,276.796 Z M 1234.29,286.337L 1236.67,291.107L 1234.88,292.002L 1232.5,287.231L 1234.29,286.337 Z M 1239.06,295.877L 1240.89,299.553L 1239.11,300.447L 1237.27,296.772L 1239.06,295.877 Z M 1200.89,219.553L 1203.28,224.323L 1201.49,225.218L 1199.11,220.447L 1200.89,219.553 Z "/>
+	<path fill="#5A0FC8" fill-opacity="1" stroke-linejoin="round" d="M 1169.99,203.876L 1174.76,206.261L 1173.86,208.05L 1169.09,205.665L 1169.99,203.876 Z M 1179.53,208.646L 1184.3,211.032L 1183.4,212.82L 1178.63,210.435L 1179.53,208.646 Z M 1189.07,213.417L 1193.84,215.802L 1192.94,217.591L 1188.17,215.206L 1189.07,213.417 Z M 1198.61,218.187L 1200.45,219.106L 1199.55,220.895L 1197.71,219.976L 1198.61,218.187 Z M 1160.45,199.106L 1165.22,201.491L 1164.32,203.28L 1159.55,200.895L 1160.45,199.106 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.501961" stroke-linejoin="round" d="M 1408.25,306.836L 1412.02,310.607L 1410.61,312.021L 1406.84,308.25L 1408.25,306.836 Z M 1415.79,314.378L 1419.56,318.149L 1418.15,319.564L 1414.38,315.792L 1415.79,314.378 Z M 1423.33,321.921L 1427.11,325.692L 1425.69,327.106L 1421.92,323.335L 1423.33,321.921 Z M 1430.88,329.463L 1434.65,333.234L 1433.23,334.649L 1429.46,330.877L 1430.88,329.463 Z M 1438.42,337.006L 1440.71,339.293L 1439.29,340.707L 1437.01,338.42L 1438.42,337.006 Z M 1400.71,299.293L 1404.48,303.064L 1403.06,304.479L 1399.29,300.707L 1400.71,299.293 Z "/>
+	<path fill="#5A0FC8" fill-opacity="1" stroke-linejoin="round" d="M 1128.25,166.836L 1132.02,170.607L 1130.61,172.021L 1126.84,168.25L 1128.25,166.836 Z M 1135.79,174.378L 1139.56,178.149L 1138.15,179.564L 1134.38,175.792L 1135.79,174.378 Z M 1143.33,181.921L 1147.11,185.692L 1145.69,187.106L 1141.92,183.335L 1143.33,181.921 Z M 1150.88,189.463L 1154.65,193.234L 1153.23,194.649L 1149.46,190.877L 1150.88,189.463 Z M 1158.42,197.006L 1160.71,199.293L 1159.29,200.707L 1157.01,198.42L 1158.42,197.006 Z M 1120.71,159.293L 1124.48,163.064L 1123.06,164.479L 1119.29,160.707L 1120.71,159.293 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.501961" stroke-linejoin="round" d="M 1370.67,299L 1376,299L 1376,301L 1370.67,301L 1370.67,299 Z M 1381.33,299L 1386.67,299L 1386.67,301L 1381.33,301L 1381.33,299 Z M 1392,299L 1397.33,299L 1397.33,301L 1392,301L 1392,299 Z M 1360,299L 1365.33,299L 1365.33,301L 1360,301L 1360,299 Z "/>
+	<path fill="#5A0FC8" fill-opacity="1" stroke-linejoin="round" d="M 1090.67,159L 1096,159L 1096,161L 1090.67,161L 1090.67,159 Z M 1101.33,159L 1106.67,159L 1106.67,161L 1101.33,161L 1101.33,159 Z M 1112,159L 1117.33,159L 1117.33,161L 1112,161L 1112,159 Z M 1080,159L 1085.33,159L 1085.33,161L 1080,161L 1080,159 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.501961" stroke-linejoin="round" d="M 1324.89,209.533L 1326.87,214.485L 1325.01,215.227L 1323.03,210.275L 1324.89,209.533 Z M 1328.85,219.436L 1330.83,224.388L 1328.98,225.131L 1326.99,220.179L 1328.85,219.436 Z M 1332.81,229.34L 1334.79,234.292L 1332.94,235.035L 1330.96,230.083L 1332.81,229.34 Z M 1336.77,239.244L 1338.76,244.196L 1336.9,244.939L 1334.92,239.987L 1336.77,239.244 Z M 1340.74,249.148L 1342.72,254.1L 1340.86,254.842L 1338.88,249.89L 1340.74,249.148 Z M 1344.7,259.051L 1346.68,264.003L 1344.82,264.746L 1342.84,259.794L 1344.7,259.051 Z M 1348.66,268.955L 1350.64,273.907L 1348.78,274.65L 1346.8,269.698L 1348.66,268.955 Z M 1352.62,278.859L 1354.6,283.811L 1352.74,284.554L 1350.76,279.602L 1352.62,278.859 Z M 1356.58,288.763L 1358.56,293.715L 1356.71,294.457L 1354.72,289.506L 1356.58,288.763 Z M 1360.54,298.666L 1360.93,299.629L 1359.07,300.372L 1358.69,299.409L 1360.54,298.666 Z M 1320.93,199.629L 1322.91,204.581L 1321.05,205.324L 1319.07,200.372L 1320.93,199.629 Z "/>
+	<path fill="#5A0FC8" fill-opacity="1" stroke-linejoin="round" d="M 1044.89,69.5327L 1046.87,74.4846L 1045.01,75.2274L 1043.03,70.2755L 1044.89,69.5327 Z M 1048.85,79.4365L 1050.83,84.3882L 1048.98,85.1311L 1046.99,80.1793L 1048.85,79.4365 Z M 1052.81,89.3401L 1054.79,94.2921L 1052.94,95.0349L 1050.96,90.083L 1052.81,89.3401 Z M 1056.77,99.2439L 1058.76,104.196L 1056.9,104.939L 1054.92,99.9868L 1056.77,99.2439 Z M 1060.74,109.148L 1062.72,114.1L 1060.86,114.842L 1058.88,109.89L 1060.74,109.148 Z M 1064.7,119.051L 1066.68,124.003L 1064.82,124.746L 1062.84,119.794L 1064.7,119.051 Z M 1068.66,128.955L 1070.64,133.907L 1068.78,134.65L 1066.8,129.698L 1068.66,128.955 Z M 1072.62,138.859L 1074.6,143.811L 1072.74,144.554L 1070.76,139.602L 1072.62,138.859 Z M 1076.58,148.763L 1078.56,153.715L 1076.71,154.457L 1074.72,149.506L 1076.58,148.763 Z M 1080.54,158.666L 1080.93,159.629L 1079.07,160.372L 1078.69,159.409L 1080.54,158.666 Z M 1040.93,59.6289L 1042.91,64.5808L 1041.05,65.3237L 1039.07,60.3718L 1040.93,59.6289 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.501961" stroke-linejoin="round" d="M 1248.25,166.836L 1252.02,170.607L 1250.61,172.021L 1246.84,168.25L 1248.25,166.836 Z M 1255.79,174.378L 1259.56,178.149L 1258.15,179.564L 1254.38,175.792L 1255.79,174.378 Z M 1263.33,181.921L 1267.11,185.692L 1265.69,187.106L 1261.92,183.335L 1263.33,181.921 Z M 1270.88,189.463L 1274.65,193.234L 1273.23,194.648L 1269.46,190.877L 1270.88,189.463 Z M 1278.42,197.006L 1280.71,199.293L 1279.29,200.707L 1277.01,198.42L 1278.42,197.006 Z M 1240.71,159.293L 1244.48,163.064L 1243.06,164.479L 1239.29,160.707L 1240.71,159.293 Z "/>
+	<path fill="#5A0FC8" fill-opacity="1" stroke-linejoin="round" d="M 968.25,266.836L 972.021,270.607L 970.607,272.021L 966.835,268.25L 968.25,266.836 Z M 975.792,274.378L 979.563,278.149L 978.149,279.564L 974.378,275.792L 975.792,274.378 Z M 983.335,281.921L 987.106,285.692L 985.692,287.106L 981.92,283.335L 983.335,281.921 Z M 990.877,289.463L 994.648,293.234L 993.234,294.648L 989.463,290.877L 990.877,289.463 Z M 998.42,297.006L 1000.71,299.293L 999.293,300.707L 997.005,298.42L 998.42,297.006 Z M 960.707,259.293L 964.478,263.064L 963.064,264.479L 959.293,260.707L 960.707,259.293 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.501961" stroke-linejoin="round" d="M 1290.67,199L 1296,199L 1296,201L 1290.67,201L 1290.67,199 Z M 1301.33,199L 1306.67,199L 1306.67,201L 1301.33,201L 1301.33,199 Z M 1312,199L 1317.33,199L 1317.33,201L 1312,201L 1312,199 Z M 1280,199L 1285.33,199L 1285.33,201L 1280,201L 1280,199 Z "/>
+	<path fill="#5A0FC8" fill-opacity="1" stroke-linejoin="round" d="M 1010.67,59.0002L 1016,59.0002L 1016,61.0002L 1010.67,61.0002L 1010.67,59.0002 Z M 1021.33,59.0002L 1026.67,59.0002L 1026.67,61.0002L 1021.33,61.0002L 1021.33,59.0002 Z M 1032,59.0002L 1037.33,59.0002L 1037.33,61.0002L 1032,61.0002L 1032,59.0002 Z M 1000,59.0002L 1005.33,59.0002L 1005.33,61.0002L 1000,61.0002L 1000,59.0002 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.501961" stroke-linejoin="round" d="M 1210.67,159L 1216,159L 1216,161L 1210.67,161L 1210.67,159 Z M 1221.33,159L 1226.67,159L 1226.67,161L 1221.33,161L 1221.33,159 Z M 1232,159L 1237.33,159L 1237.33,161L 1232,161L 1232,159 Z M 1200,159L 1205.33,159L 1205.33,161L 1200,161L 1200,159 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.501961" stroke-linejoin="round" d="M 1169.99,143.876L 1174.76,146.261L 1173.86,148.05L 1169.09,145.665L 1169.99,143.876 Z M 1179.53,148.646L 1184.3,151.031L 1183.4,152.82L 1178.63,150.435L 1179.53,148.646 Z M 1189.07,153.417L 1193.84,155.802L 1192.94,157.591L 1188.17,155.206L 1189.07,153.417 Z M 1198.61,158.187L 1200.45,159.106L 1199.55,160.895L 1197.71,159.976L 1198.61,158.187 Z M 1160.45,139.106L 1165.22,141.491L 1164.32,143.28L 1159.55,140.895L 1160.45,139.106 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.501961" stroke-linejoin="round" d="M 1128.25,106.836L 1132.02,110.607L 1130.61,112.021L 1126.84,108.25L 1128.25,106.836 Z M 1135.79,114.378L 1139.56,118.149L 1138.15,119.564L 1134.38,115.792L 1135.79,114.378 Z M 1143.33,121.921L 1147.11,125.692L 1145.69,127.106L 1141.92,123.335L 1143.33,121.921 Z M 1150.88,129.463L 1154.65,133.234L 1153.23,134.648L 1149.46,130.877L 1150.88,129.463 Z M 1158.42,137.006L 1160.71,139.293L 1159.29,140.707L 1157.01,138.42L 1158.42,137.006 Z M 1120.71,99.2932L 1124.48,103.064L 1123.06,104.479L 1119.29,100.707L 1120.71,99.2932 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.501961" stroke-linejoin="round" d="M 1090.67,99.0002L 1096,99.0002L 1096,101L 1090.67,101L 1090.67,99.0002 Z M 1101.33,99.0002L 1106.67,99.0002L 1106.67,101L 1101.33,101L 1101.33,99.0002 Z M 1112,99.0002L 1117.33,99.0002L 1117.33,101L 1112,101L 1112,99.0002 Z M 1080,99.0002L 1085.33,99.0002L 1085.33,101L 1080,101L 1080,99.0002 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.501961" stroke-linejoin="round" d="M 1045.66,29.0936L 1048.05,33.864L 1046.26,34.7583L 1043.88,29.988L 1045.66,29.0936 Z M 1050.43,38.6342L 1052.82,43.4045L 1051.03,44.2988L 1048.65,39.5286L 1050.43,38.6342 Z M 1055.21,48.1747L 1057.59,52.945L 1055.8,53.8394L 1053.42,49.0691L 1055.21,48.1747 Z M 1059.98,57.7153L 1062.36,62.4856L 1060.57,63.3799L 1058.19,58.6096L 1059.98,57.7153 Z M 1064.75,67.2559L 1067.13,72.0261L 1065.34,72.9205L 1062.96,68.1502L 1064.75,67.2559 Z M 1069.52,76.7964L 1071.9,81.5667L 1070.11,82.461L 1067.73,77.6907L 1069.52,76.7964 Z M 1074.29,86.337L 1076.67,91.1072L 1074.88,92.0016L 1072.5,87.2314L 1074.29,86.337 Z M 1079.06,95.8775L 1080.89,99.553L 1079.11,100.447L 1077.27,96.7719L 1079.06,95.8775 Z M 1040.89,19.553L 1043.28,24.3233L 1041.49,25.2177L 1039.11,20.4474L 1040.89,19.553 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.501961" stroke-linejoin="round" d="M 1010.67,19.0002L 1016,19.0002L 1016,21.0002L 1010.67,21.0002L 1010.67,19.0002 Z M 1021.33,19.0002L 1026.67,19.0002L 1026.67,21.0002L 1021.33,21.0002L 1021.33,19.0002 Z M 1032,19.0002L 1037.33,19.0002L 1037.33,21.0002L 1032,21.0002L 1032,19.0002 Z M 1000,19.0002L 1005.33,19.0002L 1005.33,21.0002L 1000,21.0002L 1000,19.0002 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.501961" stroke-linejoin="round" d="M 970.667,259L 976,259L 976,261L 970.667,261L 970.667,259 Z M 981.333,259L 986.667,259L 986.667,261L 981.333,261L 981.333,259 Z M 992,259L 997.333,259L 997.333,261L 992,261L 992,259 Z M 960,259L 965.333,259L 965.333,261L 960,261L 960,259 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.203922" stroke-linejoin="round" d="M 1090.67,119L 1096,119L 1096,121L 1090.67,121L 1090.67,119 Z M 1101.33,119L 1106.67,119L 1106.67,121L 1101.33,121L 1101.33,119 Z M 1112,119L 1117.33,119L 1117.33,121L 1112,121L 1112,119 Z M 1080,119L 1085.33,119L 1085.33,121L 1080,121L 1080,119 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.203922" stroke-linejoin="round" d="M 1008.25,46.8355L 1012.02,50.6068L 1010.61,52.021L 1006.84,48.2498L 1008.25,46.8355 Z M 1015.79,54.378L 1019.56,58.1492L 1018.15,59.5635L 1014.38,55.7922L 1015.79,54.378 Z M 1023.33,61.9205L 1027.11,65.6917L 1025.69,67.106L 1021.92,63.3347L 1023.33,61.9205 Z M 1030.88,69.463L 1034.65,73.2342L 1033.23,74.6484L 1029.46,70.8772L 1030.88,69.463 Z M 1038.42,77.0054L 1040.71,79.293L 1042.19,80.7766L 1040.78,82.1909L 1039.29,80.7073L 1037.01,78.4197L 1038.42,77.0054 Z M 1045.96,84.5479L 1049.73,88.3191L 1048.32,89.7333L 1044.55,85.9621L 1045.96,84.5479 Z M 1053.5,92.0903L 1057.28,95.8616L 1055.86,97.2758L 1052.09,93.5046L 1053.5,92.0903 Z M 1061.05,99.6328L 1064.82,103.404L 1063.4,104.818L 1059.63,101.047L 1061.05,99.6328 Z M 1068.59,107.175L 1072.36,110.947L 1070.95,112.361L 1067.18,108.59L 1068.59,107.175 Z M 1076.13,114.718L 1079.9,118.489L 1078.49,119.903L 1074.72,116.132L 1076.13,114.718 Z M 1000.71,39.293L 1004.48,43.0643L 1003.06,44.4785L 999.293,40.7073L 1000.71,39.293 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.203922" stroke-linejoin="round" d="M 969.988,263.876L 974.758,266.261L 973.864,268.05L 969.093,265.665L 969.988,263.876 Z M 979.528,268.646L 984.299,271.032L 983.404,272.82L 978.634,270.435L 979.528,268.646 Z M 989.069,273.417L 993.839,275.802L 992.945,277.591L 988.174,275.206L 989.069,273.417 Z M 998.609,278.187L 1000.45,279.106L 999.553,280.895L 997.715,279.976L 998.609,278.187 Z M 960.447,259.106L 965.217,261.491L 964.323,263.28L 959.553,260.895L 960.447,259.106 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.203922" stroke-linejoin="round" d="M 1128.25,126.835L 1132.02,130.607L 1130.61,132.021L 1126.84,128.25L 1128.25,126.835 Z M 1135.79,134.378L 1139.56,138.149L 1138.15,139.563L 1134.38,135.792L 1135.79,134.378 Z M 1143.33,141.92L 1147.11,145.692L 1145.69,147.106L 1141.92,143.335L 1143.33,141.92 Z M 1150.88,149.463L 1154.65,153.234L 1153.23,154.648L 1149.46,150.877L 1150.88,149.463 Z M 1158.42,157.005L 1160.71,159.293L 1159.29,160.707L 1157.01,158.42L 1158.42,157.005 Z M 1120.71,119.293L 1124.48,123.064L 1123.06,124.478L 1119.29,120.707L 1120.71,119.293 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.203922" stroke-linejoin="round" d="M 1169.99,163.876L 1174.76,166.261L 1173.86,168.05L 1169.09,165.665L 1169.99,163.876 Z M 1179.53,168.646L 1184.3,171.031L 1183.4,172.82L 1178.63,170.435L 1179.53,168.646 Z M 1189.07,173.417L 1193.84,175.802L 1192.94,177.591L 1188.17,175.205L 1189.07,173.417 Z M 1198.61,178.187L 1200.45,179.106L 1199.55,180.895L 1197.71,179.976L 1198.61,178.187 Z M 1160.45,159.106L 1165.22,161.491L 1164.32,163.28L 1159.55,160.895L 1160.45,159.106 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.203922" stroke-linejoin="round" d="M 1408.25,326.836L 1412.02,330.607L 1410.61,332.021L 1406.84,328.25L 1408.25,326.836 Z M 1415.79,334.378L 1419.56,338.149L 1418.15,339.564L 1414.38,335.792L 1415.79,334.378 Z M 1423.33,341.921L 1427.11,345.692L 1425.69,347.106L 1421.92,343.335L 1423.33,341.921 Z M 1430.88,349.463L 1434.65,353.234L 1433.23,354.648L 1429.46,350.877L 1430.88,349.463 Z M 1438.42,357.005L 1440.71,359.293L 1439.29,360.707L 1437.01,358.42L 1438.42,357.005 Z M 1400.71,319.293L 1404.48,323.064L 1403.06,324.479L 1399.29,320.707L 1400.71,319.293 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.203922" stroke-linejoin="round" d="M 1370.67,319L 1376,319L 1376,321L 1370.67,321L 1370.67,319 Z M 1381.33,319L 1386.67,319L 1386.67,321L 1381.33,321L 1381.33,319 Z M 1392,319L 1397.33,319L 1397.33,321L 1392,321L 1392,319 Z M 1360,319L 1365.33,319L 1365.33,321L 1360,321L 1360,319 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.203922" stroke-linejoin="round" d="M 1325.66,249.094L 1328.05,253.864L 1326.26,254.758L 1323.88,249.988L 1325.66,249.094 Z M 1330.43,258.634L 1332.82,263.404L 1331.03,264.299L 1328.65,259.529L 1330.43,258.634 Z M 1335.21,268.175L 1337.59,272.945L 1335.8,273.839L 1333.42,269.069L 1335.21,268.175 Z M 1339.98,277.715L 1342.36,282.486L 1340.57,283.38L 1338.19,278.61L 1339.98,277.715 Z M 1344.75,287.256L 1347.13,292.026L 1345.34,292.92L 1342.96,288.15L 1344.75,287.256 Z M 1349.52,296.796L 1351.9,301.567L 1350.11,302.461L 1347.73,297.691L 1349.52,296.796 Z M 1354.29,306.337L 1356.67,311.107L 1354.88,312.002L 1352.5,307.231L 1354.29,306.337 Z M 1359.06,315.878L 1360.89,319.553L 1359.11,320.447L 1357.27,316.772L 1359.06,315.878 Z M 1320.89,239.553L 1323.28,244.323L 1321.49,245.218L 1319.11,240.447L 1320.89,239.553 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.203922" stroke-linejoin="round" d="M 1290.67,239L 1296,239L 1296,241L 1290.67,241L 1290.67,239 Z M 1301.33,239L 1306.67,239L 1306.67,241L 1301.33,241L 1301.33,239 Z M 1312,239L 1317.33,239L 1317.33,241L 1312,241L 1312,239 Z M 1280,239L 1285.33,239L 1285.33,241L 1280,241L 1280,239 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.203922" stroke-linejoin="round" d="M 1250.67,239L 1256,239L 1256,241L 1250.67,241L 1250.67,239 Z M 1261.33,239L 1266.67,239L 1266.67,241L 1261.33,241L 1261.33,239 Z M 1272,239L 1277.33,239L 1277.33,241L 1272,241L 1272,239 Z M 1240,239L 1245.33,239L 1245.33,241L 1240,241L 1240,239 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.203922" stroke-linejoin="round" d="M 1206.75,188.321L 1209.71,192.758L 1208.04,193.868L 1205.08,189.43L 1206.75,188.321 Z M 1212.67,197.196L 1215.62,201.633L 1213.96,202.743L 1211,198.305L 1212.67,197.196 Z M 1218.58,206.071L 1221.54,210.509L 1219.88,211.618L 1216.92,207.18L 1218.58,206.071 Z M 1224.5,214.946L 1227.46,219.384L 1225.79,220.493L 1222.84,216.056L 1224.5,214.946 Z M 1230.42,223.821L 1233.37,228.259L 1231.71,229.368L 1228.75,224.931L 1230.42,223.821 Z M 1236.33,232.697L 1239.29,237.134L 1237.63,238.244L 1234.67,233.806L 1236.33,232.697 Z M 1200.83,179.445L 1203.79,183.883L 1202.13,184.992L 1199.17,180.555L 1200.83,179.445 Z "/>
+	<path fill="#5A0FC8" fill-opacity="1" stroke-linejoin="round" d="M 1002.5,70.6665L 1002.5,75.9998L 997.5,75.9998L 997.5,70.6665L 1002.5,70.6665 Z M 1002.5,81.3332L 1002.5,86.6665L 997.5,86.6665L 997.5,81.3332L 1002.5,81.3332 Z M 1002.5,91.9998L 1002.5,97.3332L 997.5,97.3332L 997.5,91.9998L 1002.5,91.9998 Z M 1002.5,102.667L 1002.5,108L 997.5,108L 997.5,102.667L 1002.5,102.667 Z M 1002.5,113.333L 1002.5,118.667L 997.5,118.667L 997.5,113.333L 1002.5,113.333 Z M 1002.5,124L 1002.5,129.333L 997.5,129.333L 997.5,124L 1002.5,124 Z M 1002.5,134.667L 1002.5,140L 997.5,140L 997.5,134.667L 1002.5,134.667 Z M 1002.5,145.333L 1002.5,150.667L 997.5,150.667L 997.5,145.333L 1002.5,145.333 Z M 1002.5,156L 1002.5,161.333L 997.5,161.333L 997.5,156L 1002.5,156 Z M 1002.5,166.667L 1002.5,172L 997.5,172L 997.5,166.667L 1002.5,166.667 Z M 1002.5,177.333L 1002.5,182.667L 997.5,182.667L 997.5,177.333L 1002.5,177.333 Z M 1002.5,188L 1002.5,193.333L 997.5,193.333L 997.5,188L 1002.5,188 Z M 1002.5,198.667L 1002.5,204L 997.5,204L 997.5,198.667L 1002.5,198.667 Z M 1002.5,209.333L 1002.5,214.667L 997.5,214.667L 997.5,209.333L 1002.5,209.333 Z M 1002.5,220L 1002.5,225.333L 997.5,225.333L 997.5,220L 1002.5,220 Z M 1002.5,230.667L 1002.5,236L 997.5,236L 997.5,230.667L 1002.5,230.667 Z M 1002.5,241.333L 1002.5,246.667L 997.5,246.667L 997.5,241.333L 1002.5,241.333 Z M 1002.5,252L 1002.5,257.333L 997.5,257.333L 997.5,252L 1002.5,252 Z M 1002.5,262.667L 1002.5,268L 997.5,268L 997.5,262.667L 1002.5,262.667 Z M 1002.5,273.333L 1002.5,278.667L 997.5,278.667L 997.5,273.333L 1002.5,273.333 Z M 1002.5,284L 1002.5,289.333L 997.5,289.333L 997.5,284L 1002.5,284 Z M 1002.5,294.667L 1002.5,300L 997.5,300L 997.5,294.667L 1002.5,294.667 Z M 1002.5,59.9998L 1002.5,65.3332L 997.5,65.3332L 997.5,59.9998L 1002.5,59.9998 Z "/>
+	<path fill="#5A0FC8" fill-opacity="0.501961" stroke-linejoin="round" d="M 1002.5,30.6665L 1002.5,35.9998L 997.5,35.9998L 997.5,30.6665L 1002.5,30.6665 Z M 1002.5,41.3332L 1002.5,46.6665L 997.5,46.6665L 997.5,41.3332L 1002.5,41.3332 Z M 1002.5,51.9998L 1002.5,57.3332L 997.5,57.3332L 997.5,51.9998L 1002.5,51.9998 Z M 1002.5,19.9998L 1002.5,25.3332L 997.5,25.3332L 997.5,19.9998L 1002.5,19.9998 Z "/>
+	<rect x="993.993" y="143.5" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9167" height="16.5"/>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 992.00 157.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">12</tspan>
+	</text>
+	<rect x="954.534" y="291.753" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9167" height="16.5"/>
+	<rect x="914.184" y="291.753" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9167" height="16.5"/>
+	<rect x="674.184" y="170.753" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9168" height="16.5"/>
+	<rect x="394.184" y="650.753" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9168" height="16.5"/>
+	<rect x="1234.18" y="750.753" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9169" height="16.5"/>
+	<rect x="474.434" y="110.003" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9168" height="16.5"/>
+	<rect x="194.434" y="590.003" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9168" height="16.5"/>
+	<rect x="1034.43" y="690.003" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9169" height="16.5"/>
+	<rect x="434.184" y="190.503" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9168" height="16.5"/>
+	<rect x="154.184" y="670.503" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9168" height="16.5"/>
+	<rect x="994.184" y="770.503" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9168" height="16.5"/>
+	<rect x="394.184" y="309.75" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9168" height="16.5"/>
+	<rect x="114.184" y="789.75" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9168" height="16.5"/>
+	<rect x="954.184" y="889.75" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9168" height="16.5"/>
+	<rect x="154.434" y="231.5" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9168" height="16.5"/>
+	<rect x="714.434" y="811.5" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9168" height="16.5"/>
+	<rect x="74.1843" y="231.75" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9168" height="16.5"/>
+	<rect x="634.184" y="811.75" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="11.9168" height="16.5"/>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 955.00 305.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 915.00 305.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 675.00 184.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 395.00 664.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1235.00 764.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 475.00 123.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 195.00 603.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 1035.00 703.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 435.00 204.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 155.00 684.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 995.00 784.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 395.00 323.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">8</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 115.00 803.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">8</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 955.00 903.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">8</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 155.00 245.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 715.00 825.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 75.00 245.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+	<text transform="matrix(1.0000000000000000 0.0000000000000000 0.0000000000000000 1.0000000000000000 635.00 825.00)" xml:space="preserve">
+		<tspan style=" font-family:Segoe UI Semibold; font-size:12.000000pt;font-weight:Bold;" letter-spacing="0.00em" fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round">4</tspan>
+	</text>
+</svg>

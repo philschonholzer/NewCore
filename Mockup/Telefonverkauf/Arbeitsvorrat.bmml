@@ -177,90 +177,90 @@
         <color>15658734</color>
       </controlProperties>
     </control>
-    <control controlID="30" controlTypeID="com.balsamiq.mockups::SubTitle" x="886" y="221" w="-1" h="-1" measuredW="84" measuredH="27" zOrder="28" locked="false" isInGroup="-1">
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::SubTitle" x="1243" y="221" w="-1" h="-1" measuredW="84" measuredH="27" zOrder="40" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Tour%2073</text>
       </controlProperties>
     </control>
-    <control controlID="31" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="367" w="-1" h="-1" measuredW="128" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="367" w="-1" h="-1" measuredW="128" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CircleIcon%7Cxsmall</icon>
         <labelPosition>right</labelPosition>
         <text>148112%20%09Hettlingen</text>
       </controlProperties>
     </control>
-    <control controlID="32" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="389" w="-1" h="-1" measuredW="119" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="389" w="-1" h="-1" measuredW="119" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CircleIcon%7Cxsmall</icon>
         <labelPosition>right</labelPosition>
         <text>148113%09Seuzach</text>
       </controlProperties>
     </control>
-    <control controlID="33" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="411" w="-1" h="-1" measuredW="107" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="411" w="-1" h="-1" measuredW="107" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CircleIcon%7Cxsmall</icon>
         <labelPosition>right</labelPosition>
         <text>138811%20%09Felben</text>
       </controlProperties>
     </control>
-    <control controlID="34" controlTypeID="com.balsamiq.mockups::IconLabel" x="529" y="499" w="-1" h="-1" measuredW="95" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::IconLabel" x="529" y="499" w="-1" h="-1" measuredW="95" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CircleIcon%7Cxsmall</icon>
         <labelPosition>right</labelPosition>
         <text>138812%20%09Pfyn</text>
       </controlProperties>
     </control>
-    <control controlID="35" controlTypeID="com.balsamiq.mockups::IconLabel" x="529" y="477" w="-1" h="-1" measuredW="112" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::IconLabel" x="529" y="477" w="-1" h="-1" measuredW="112" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CircleIcon%7Cxsmall</icon>
         <labelPosition>right</labelPosition>
         <text>138819%09Dinhard</text>
       </controlProperties>
     </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="257" w="-1" h="-1" measuredW="164" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="257" w="-1" h="-1" measuredW="164" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CheckMarkIcon%7Cxsmall</icon>
         <labelPosition>right</labelPosition>
         <text>144023%09Sulz%20Rickenbach</text>
       </controlProperties>
     </control>
-    <control controlID="37" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="279" w="-1" h="-1" measuredW="155" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="279" w="-1" h="-1" measuredW="155" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CircleIcon%7Cxsmall</icon>
         <labelPosition>right</labelPosition>
         <text>111612%09Wiesendangen</text>
       </controlProperties>
     </control>
-    <control controlID="38" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="301" w="-1" h="-1" measuredW="147" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="301" w="-1" h="-1" measuredW="147" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CircleIcon%7Cxsmall</icon>
         <labelPosition>right</labelPosition>
         <text>138627%09M%FCllheim%20Dorf</text>
       </controlProperties>
     </control>
-    <control controlID="39" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="323" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="323" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CircleIcon%7Cxsmall</icon>
         <labelPosition>right</labelPosition>
         <text>147513%20Uesslingen</text>
       </controlProperties>
     </control>
-    <control controlID="40" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="345" w="-1" h="-1" measuredW="102" measuredH="21" zOrder="38" locked="false" isInGroup="-1">
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::IconLabel" x="886" y="345" w="-1" h="-1" measuredW="102" measuredH="21" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>CircleIcon%7Cxsmall</icon>
         <labelPosition>right</labelPosition>
         <text>138425%09Warth</text>
       </controlProperties>
     </control>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::Canvas" x="1224" y="195" w="325" h="388" measuredW="100" measuredH="70" zOrder="39" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Canvas" x="1224" y="195" w="325" h="388" measuredW="100" measuredH="70" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
         <color>15658734</color>
         <verticalScrollbar>false</verticalScrollbar>
       </controlProperties>
     </control>
-    <control controlID="42" controlTypeID="com.balsamiq.mockups::SubTitle" x="1243" y="221" w="-1" h="-1" measuredW="86" measuredH="27" zOrder="40" locked="false" isInGroup="-1">
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::SubTitle" x="886" y="221" w="-1" h="-1" measuredW="211" measuredH="27" zOrder="39" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Tour%2074</text>
+        <text>Anruf%2008%3A15%20-%2008%3A30</text>
       </controlProperties>
     </control>
     <control controlID="43" controlTypeID="com.balsamiq.mockups::IconLabel" x="1243" y="257" w="-1" h="-1" measuredW="128" measuredH="21" zOrder="41" locked="false" isInGroup="-1">
@@ -592,7 +592,7 @@
         <text>17min</text>
       </controlProperties>
     </control>
-    <control controlID="119" controlTypeID="com.balsamiq.mockups::Label" x="1123" y="222" w="-1" h="-1" measuredW="45" measuredH="24" zOrder="95" locked="false" isInGroup="-1">
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::Label" x="1480" y="222" w="-1" h="-1" measuredW="45" measuredH="24" zOrder="97" locked="false" isInGroup="-1">
       <controlProperties>
         <align>right</align>
         <color>16750848</color>
@@ -600,16 +600,16 @@
         <text>47min</text>
       </controlProperties>
     </control>
-    <control controlID="120" controlTypeID="com.balsamiq.mockups::Label" x="1467" y="222" w="-1" h="-1" measuredW="60" measuredH="24" zOrder="96" locked="false" isInGroup="-1">
+    <control controlID="123" controlTypeID="com.balsamiq.mockups::TextArea" x="1485" y="100" w="200" h="72" measuredW="200" measuredH="140" zOrder="95" locked="false" isInGroup="-1">
       <controlProperties>
-        <size>16</size>
-        <text>1h%2017min</text>
+        <borderColor>16777215</borderColor>
+        <text>Kunden%20heute%0A%20%20%2015%20erledigt%0A%20%20%20%205%20in%20Bearbeitung%0A238%20offen</text>
       </controlProperties>
     </control>
-    <control controlID="121" controlTypeID="com.balsamiq.mockups::SubTitle" x="435" y="133" w="-1" h="-1" measuredW="457" measuredH="27" zOrder="97" locked="false" isInGroup="-1">
+    <control controlID="124" controlTypeID="com.balsamiq.mockups::TextArea" x="1318" y="100" w="149" h="72" measuredW="200" measuredH="140" zOrder="96" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>6710886</color>
-        <text>3%20erledigt%20%20-%20%202%20in%20Bearbeitung%20%20-%20%2034%20offen</text>
+        <borderColor>16777215</borderColor>
+        <text>Touren%20heute%0A%20%203%20erledigt%0A%20%202%20in%20Bearbeitung%0A34%20offen%20%20%20%20%20%20%20</text>
       </controlProperties>
     </control>
   </controls>

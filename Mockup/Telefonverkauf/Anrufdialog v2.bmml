@@ -874,7 +874,7 @@
         <text>Die%20Ansicht%20scrollt%20immer%20mit.%20Es%20ist%20immer%20das%20letzt%20Problem%20oder%20die%20aktuelle%20Zeit%20ganz%20links.</text>
       </controlProperties>
     </control>
-    <control controlID="138" controlTypeID="com.balsamiq.mockups::Canvas" x="501" y="89" w="1189" h="799" measuredW="100" measuredH="70" zOrder="126" locked="false" isInGroup="-1">
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Canvas" x="497" y="85" w="1198" h="807" measuredW="100" measuredH="70" zOrder="126" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.25</backgroundAlpha>
         <borderStyle>none</borderStyle>

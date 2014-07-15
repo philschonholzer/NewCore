@@ -877,7 +877,7 @@
         <text>Die%20Ansicht%20scrollt%20immer%20mit.%20Es%20ist%20immer%20das%20letzt%20Problem%20oder%20die%20aktuelle%20Zeit%20ganz%20links.</text>
       </controlProperties>
     </control>
-    <control controlID="138" controlTypeID="com.balsamiq.mockups::Canvas" x="501" y="89" w="1189" h="799" measuredW="100" measuredH="70" zOrder="126" locked="false" isInGroup="-1">
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Canvas" x="496" y="85" w="1198" h="806" measuredW="100" measuredH="70" zOrder="126" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.25</backgroundAlpha>
         <borderStyle>none</borderStyle>
@@ -886,7 +886,7 @@
     </control>
     <control controlID="139" controlTypeID="com.balsamiq.mockups::Label" x="135" y="576" w="-1" h="-1" measuredW="224" measuredH="21" zOrder="127" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>N%E4chste%20Bestellung%20%5BMorgen%5D%20um%20%5B09%3A58%5D.</text>
+        <text>N%E4chste%20Bestellung%20%5Bmorgen%5D%20um%20%5B09%3A58%5D.</text>
       </controlProperties>
     </control>
   </controls>

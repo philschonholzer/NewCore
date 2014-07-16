@@ -43,7 +43,7 @@
     <control controlID="9" controlTypeID="com.balsamiq.mockups::IconLabel" x="172" y="301" w="-1" h="-1" measuredW="107" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
-        <icon>XIcon%7Cxsmall</icon>
+        <icon>CheckMarkIcon%7Cxsmall</icon>
         <labelPosition>right</labelPosition>
         <text>138811%20%09Felben</text>
       </controlProperties>
@@ -80,12 +80,12 @@
         <text>111612%09Wiesendangen</text>
       </controlProperties>
     </control>
-    <control controlID="14" controlTypeID="com.balsamiq.mockups::IconLabel" x="172" y="411" w="-1" h="-1" measuredW="275" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::IconLabel" x="172" y="411" w="-1" h="-1" measuredW="151" measuredH="21" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <color>6710886</color>
-        <icon>ExclamationPointIcon%7Cxsmall</icon>
+        <icon>CircleIcon%7Cxsmall</icon>
         <labelPosition>right</labelPosition>
-        <text>138627%09M%FCllheim%20Dorf%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7Bcolor%3Aorange%7DTour%2076%7Bcolor%7D</text>
+        <text>138627%09M%FCllheim%20Dorf%20</text>
       </controlProperties>
     </control>
     <control controlID="15" controlTypeID="com.balsamiq.mockups::IconLabel" x="172" y="433" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
@@ -141,12 +141,12 @@
         <text>138811%20%09Felben</text>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::IconLabel" x="530" y="279" w="-1" h="-1" measuredW="273" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::IconLabel" x="530" y="279" w="-1" h="-1" measuredW="177" measuredH="21" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
-        <icon>ExclamationPointIcon%7Cxsmall</icon>
+        <icon>CircleIcon%7Cxsmall</icon>
         <labelPosition>right</labelPosition>
-        <text>138812%20%09Pfyn%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7Bcolor%3Aorange%7DTour%2072%7Bcolor%7D</text>
+        <text>138812%20%09Pfyn%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
       </controlProperties>
     </control>
     <control controlID="23" controlTypeID="com.balsamiq.mockups::IconLabel" x="530" y="301" w="-1" h="-1" measuredW="116" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
@@ -784,6 +784,38 @@
     <control controlID="154" controlTypeID="com.balsamiq.mockups::StickyNote" x="199" y="507" w="152" h="136" measuredW="109" measuredH="123" zOrder="111" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Die%20Ansicht%20scrollt%20immer%20mit.%20Es%20ist%20immer%20das%20letzt%20Problem%20oder%20die%20aktuelle%20Zeit%20ganz%20links.</text>
+      </controlProperties>
+    </control>
+    <control controlID="155" controlTypeID="com.balsamiq.mockups::IconLabel" x="383" y="411" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="113" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <icon>ContactIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>%20%20%7Bcolor%3Aorange%7DTour%2076%7Bcolor%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="157" controlTypeID="com.balsamiq.mockups::IconLabel" x="383" y="411" w="-1" h="-1" measuredW="23" measuredH="21" zOrder="114" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <icon>LineIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="158" controlTypeID="com.balsamiq.mockups::IconLabel" x="730" y="279" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="115" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <icon>ContactIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>%20%20%7Bcolor%3Aorange%7DTour%2076%7Bcolor%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="159" controlTypeID="com.balsamiq.mockups::IconLabel" x="730" y="279" w="-1" h="-1" measuredW="23" measuredH="21" zOrder="116" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <icon>LineIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>%20</text>
       </controlProperties>
     </control>
   </controls>

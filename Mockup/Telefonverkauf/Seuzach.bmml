@@ -46,17 +46,17 @@
         <text>Schulz</text>
       </controlProperties>
     </control>
-    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="131" y="734" w="327" h="54" measuredW="220" measuredH="36" zOrder="120" locked="false" isInGroup="-1">
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Button" x="131" y="734" w="327" h="54" measuredW="211" measuredH="36" zOrder="120" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <href>Arbeitsvorrat%20zeitbasiert%26bm%3BArbeitsvorrat%20zeitbasiert.bmml%26bm%3BArbeitsvorrat%20zeitbasiert.bmml%26bm%3BArbeitsvorrat%20zeitbasiert.bmml</href>
         <icon>SmallClockIcon%7Cmedium</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2238%2C721%2C365%2C775%22%20href%3D%22Arbeitsvorrat%2520zeitbasiert.bmml%22%20alt%3D%22Arbeitsvorrat%20zeitbasiert%22%20id%3D%2217%22/%3E</map>
         <size>28</size>
-        <text>%20Verschieben</text>
+        <text>%20Nicht%20bereit</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="131" y="800" w="327" h="54" measuredW="234" measuredH="36" zOrder="121" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Button" x="131" y="800" w="327" h="54" measuredW="234" measuredH="36" zOrder="123" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <href>Arbeitsvorrat%20zeitbasiert%26bm%3BArbeitsvorrat%20zeitbasiert.bmml%26bm%3BArbeitsvorrat%20zeitbasiert.bmml%26bm%3BArbeitsvorrat%20zeitbasiert.bmml</href>
@@ -66,17 +66,17 @@
         <text>%20Nicht%20erreicht</text>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="131" y="667" w="327" h="54" measuredW="209" measuredH="36" zOrder="122" locked="false" isInGroup="-1">
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="131" y="667" w="327" h="54" measuredW="162" measuredH="36" zOrder="124" locked="false" isInGroup="-1">
       <controlProperties>
         <align>left</align>
         <href>Arbeitsvorrat%20zeitbasiert%26bm%3BArbeitsvorrat%20zeitbasiert.bmml%26bm%3BArbeitsvorrat%20zeitbasiert.bmml%26bm%3BArbeitsvorrat%20zeitbasiert.bmml</href>
         <icon>CheckMarkIcon%7Cmedium</icon>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2238%2C654%2C365%2C708%22%20href%3D%22Arbeitsvorrat%2520zeitbasiert.bmml%22%20alt%3D%22Arbeitsvorrat%20zeitbasiert%22%20id%3D%2219%22/%3E</map>
         <size>28</size>
-        <text>%20Erfolgreich%20</text>
+        <text>%20Bestellt</text>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="415" y="118" w="43" h="36" measuredW="38" measuredH="27" zOrder="123" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="415" y="118" w="43" h="36" measuredW="38" measuredH="27" zOrder="125" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Arbeitsvorrat%20zeitbasiert%26bm%3BArbeitsvorrat%20zeitbasiert.bmml%26bm%3BArbeitsvorrat%20zeitbasiert.bmml%26bm%3BArbeitsvorrat%20zeitbasiert.bmml</href>
         <icon>XIcon%7Cxsmall</icon>
@@ -84,13 +84,13 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::IconLabel" x="141" y="813" w="-1" h="-1" measuredW="32" measuredH="47" zOrder="124" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::IconLabel" x="141" y="813" w="-1" h="-1" measuredW="32" measuredH="47" zOrder="126" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>LineIcon%7Cmedium</icon>
         <text>%20</text>
       </controlProperties>
     </control>
-    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="135" y="118" w="-1" h="-1" measuredW="74" measuredH="27" zOrder="125" locked="false" isInGroup="-1">
+    <control controlID="24" controlTypeID="com.balsamiq.mockups::SubTitle" x="135" y="118" w="-1" h="-1" measuredW="74" measuredH="27" zOrder="127" locked="false" isInGroup="-1">
       <controlProperties>
         <text>148113</text>
       </controlProperties>
@@ -242,12 +242,12 @@
         <text>138811%20%09Felben</text>
       </controlProperties>
     </control>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::IconLabel" x="530" y="279" w="-1" h="-1" measuredW="273" measuredH="21" zOrder="20" locked="true" isInGroup="-1">
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::IconLabel" x="530" y="279" w="-1" h="-1" measuredW="216" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
-        <icon>ExclamationPointIcon%7Cxsmall</icon>
+        <icon>CircleIcon%7Cxsmall</icon>
         <labelPosition>right</labelPosition>
-        <text>138812%20%09Pfyn%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%7Bcolor%3Aorange%7DTour%2072%7Bcolor%7D</text>
+        <text>138812%20%09Pfyn%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20</text>
       </controlProperties>
     </control>
     <control controlID="46" controlTypeID="com.balsamiq.mockups::IconLabel" x="530" y="301" w="-1" h="-1" measuredW="116" measuredH="21" zOrder="21" locked="true" isInGroup="-1">
@@ -877,16 +877,32 @@
         <text>Die%20Ansicht%20scrollt%20immer%20mit.%20Es%20ist%20immer%20das%20letzt%20Problem%20oder%20die%20aktuelle%20Zeit%20ganz%20links.</text>
       </controlProperties>
     </control>
-    <control controlID="138" controlTypeID="com.balsamiq.mockups::Canvas" x="496" y="85" w="1198" h="806" measuredW="100" measuredH="70" zOrder="126" locked="false" isInGroup="-1">
+    <control controlID="138" controlTypeID="com.balsamiq.mockups::Canvas" x="496" y="85" w="1198" h="806" measuredW="100" measuredH="70" zOrder="128" locked="false" isInGroup="-1">
       <controlProperties>
         <backgroundAlpha>0.25</backgroundAlpha>
         <borderStyle>none</borderStyle>
         <color>0</color>
       </controlProperties>
     </control>
-    <control controlID="139" controlTypeID="com.balsamiq.mockups::Label" x="135" y="576" w="-1" h="-1" measuredW="224" measuredH="21" zOrder="127" locked="false" isInGroup="-1">
+    <control controlID="139" controlTypeID="com.balsamiq.mockups::Label" x="135" y="576" w="-1" h="-1" measuredW="224" measuredH="21" zOrder="129" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>N%E4chste%20Bestellung%20%5Bmorgen%5D%20um%20%5B09%3A58%5D.</text>
+        <text>N%E4chste%20Bestellung%20morgen%20um%20%5B09%3A58%5D.</text>
+      </controlProperties>
+    </control>
+    <control controlID="140" controlTypeID="com.balsamiq.mockups::IconLabel" x="730" y="279" w="-1" h="-1" measuredW="73" measuredH="21" zOrder="121" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <icon>ContactIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>%20%20%7Bcolor%3Aorange%7DTour%2076%7Bcolor%7D</text>
+      </controlProperties>
+    </control>
+    <control controlID="141" controlTypeID="com.balsamiq.mockups::IconLabel" x="730" y="279" w="-1" h="-1" measuredW="23" measuredH="21" zOrder="122" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <icon>LineIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>%20</text>
       </controlProperties>
     </control>
   </controls>

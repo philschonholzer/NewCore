@@ -7,6 +7,8 @@
     </control>
     <control controlID="1" controlTypeID="com.balsamiq.mockups::SearchBox" x="176" y="134" w="371" h="-1" measuredW="120" measuredH="44" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
+        <href>Results%26bm%3BResults.bmml%26bm%3BResults.bmml%26bm%3BResults.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22111%2C111%2C482%2C155%22%20href%3D%22Results.bmml%22%20alt%3D%22Results%22%20id%3D%221%22/%3E</map>
         <size>32</size>
         <text>Artikel</text>
       </controlProperties>

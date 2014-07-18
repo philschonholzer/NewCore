@@ -138,13 +138,18 @@
         <src>./assets/symbols.bmml#ListItem</src>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::Button" x="1288" y="822" w="273" h="47" measuredW="249" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Button" x="1249" y="772" w="351" h="47" measuredW="294" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <href>Lieferung%26bm%3BLieferung.bmml%26bm%3BLieferung.bmml%26bm%3BLieferung.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221223%2C793%2C1496%2C840%22%20href%3D%22Lieferung.bmml%22%20alt%3D%22Lieferung%22%20id%3D%2246%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221184%2C743%2C1535%2C790%22%20href%3D%22Lieferung.bmml%22%20alt%3D%22Lieferung%22%20id%3D%2246%22/%3E</map>
         <size>24</size>
-        <text>Kaufen%20-%201%27470.-%20CHF</text>
+        <text>Kaufen%20%20%20%20%20%20%201%27587.60%20CHF</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Paragraph" x="1249" y="832" w="366" h="67" measuredW="275" measuredH="80" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Inkl.%20MwSt%09%09%09%09%20%20%20%20%20%20%20%20%20117.60%20CHF%0AExkl.%20optionale%20Liefer-/Versandkosten%20%20%20%09%20%20%20%20%20%20%20200.00%20CHF%0AExkl.%20pptionale%20Montagekosten%09%09%20%20%20%20%20%20%20120.00%20CHF</text>
       </controlProperties>
     </control>
   </controls>

@@ -20,23 +20,17 @@
         <text>Jetzt%20bezahlen%2C%20Sp%E4ter%20bezahlen</text>
       </controlProperties>
     </control>
-    <control controlID="56" controlTypeID="com.balsamiq.mockups::SubTitle" x="806" y="151" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::SubTitle" x="1266" y="656" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Kosten</text>
       </controlProperties>
     </control>
-    <control controlID="57" controlTypeID="com.balsamiq.mockups::Paragraph" x="806" y="215" w="226" h="67" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Paragraph" x="1266" y="720" w="226" h="67" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Warenwert%09%091%27470.00%20CHF%0ALiefer-/Versandkosten%09%20%20200.00%20CHF%0AMontagekosten%09%09%20%20120.00%20CHF%0AMwSt%09%09%09%20%20143.20%20CHF</text>
       </controlProperties>
     </control>
-    <control controlID="58" controlTypeID="com.balsamiq.mockups::HRule" x="809" y="281" w="215" h="-1" measuredW="100" measuredH="10" zOrder="5" locked="false" isInGroup="-1"/>
-    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="808" y="297" w="-1" h="-1" measuredW="221" measuredH="21" zOrder="6" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Total%20%09%09%20%20%20%20%20%20%20%20%20%20%20*1%27933.20%20CHF*</text>
-      </controlProperties>
-    </control>
-    <control controlID="69" controlTypeID="com.balsamiq.mockups::Button" x="1239" y="822" w="322" h="47" measuredW="294" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Button" x="1239" y="822" w="322" h="47" measuredW="294" measuredH="32" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <href>Startseite%26bm%3BStartseite.bmml%26bm%3BStartseite.bmml%26bm%3BStartseite.bmml</href>

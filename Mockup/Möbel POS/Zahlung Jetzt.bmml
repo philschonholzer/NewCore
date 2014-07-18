@@ -13,9 +13,9 @@
     </control>
     <control controlID="49" controlTypeID="com.balsamiq.mockups::ButtonBar" x="139" y="215" w="464" h="36" measuredW="337" measuredH="34" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>Zahlung%20Jetzt%26bm%3BZahlung%20Jetzt.bmml%26bm%3BZahlung%20Jetzt.bmml%26bm%3BZahlung%20Jetzt.bmml%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2274%2C186%2C295%2C222%22%20href%3D%22Zahlung%2520Jetzt.bmml%22%20alt%3D%22Zahlung%20Jetzt%22%20id%3D%2249%22/%3E</map>
-        <selectedIndex>1</selectedIndex>
+        <hrefs>%2CZahlung%26bm%3BZahlung.bmml%26bm%3BZahlung.bmml%26bm%3BZahlung.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22295%2C186%2C537%2C222%22%20href%3D%22Zahlung.bmml%22%20alt%3D%22Zahlung%22%20id%3D%2249%22/%3E</map>
+        <selectedIndex>0</selectedIndex>
         <size>20</size>
         <text>Jetzt%20bezahlen%2C%20Sp%E4ter%20bezahlen</text>
       </controlProperties>
@@ -36,36 +36,13 @@
         <text>Total%20%09%09%20%20%20%20%20%20%20%20%20%20%20*1%27933.20%20CHF*</text>
       </controlProperties>
     </control>
-    <control controlID="65" controlTypeID="com.balsamiq.mockups::Label" x="139" y="276" w="-1" h="-1" measuredW="109" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Anzahlungsbetrag</text>
-      </controlProperties>
-    </control>
-    <control controlID="66" controlTypeID="com.balsamiq.mockups::TextInput" x="139" y="300" w="464" h="-1" measuredW="195" measuredH="38" zOrder="8" locked="false" isInGroup="-1">
-      <controlProperties>
-        <align>right</align>
-        <size>24</size>
-        <text>910.-%20-CHF%20%2850%25%29-</text>
-      </controlProperties>
-    </control>
-    <control controlID="69" controlTypeID="com.balsamiq.mockups::Button" x="1242" y="822" w="319" h="47" measuredW="294" measuredH="32" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Button" x="1239" y="822" w="322" h="47" measuredW="294" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <href>Startseite%26bm%3BStartseite.bmml%26bm%3BStartseite.bmml%26bm%3BStartseite.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221177%2C793%2C1496%2C840%22%20href%3D%22Startseite.bmml%22%20alt%3D%22Startseite%22%20id%3D%2269%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221174%2C793%2C1496%2C840%22%20href%3D%22Startseite.bmml%22%20alt%3D%22Startseite%22%20id%3D%2269%22/%3E</map>
         <size>24</size>
         <text>%DCbersicht%20-%201%27933.20%20CHF</text>
-      </controlProperties>
-    </control>
-    <control controlID="70" controlTypeID="com.balsamiq.mockups::Label" x="139" y="367" w="-1" h="-1" measuredW="125" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Anzahlungszeitpunkt</text>
-      </controlProperties>
-    </control>
-    <control controlID="73" controlTypeID="com.balsamiq.mockups::ComboBox" x="139" y="392" w="464" h="-1" measuredW="223" measuredH="35" zOrder="11" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>24</size>
-        <text>Heute%2C%2014.07.2015</text>
       </controlProperties>
     </control>
   </controls>

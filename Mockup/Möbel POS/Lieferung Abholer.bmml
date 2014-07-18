@@ -24,9 +24,9 @@
     </control>
     <control controlID="49" controlTypeID="com.balsamiq.mockups::ButtonBar" x="139" y="215" w="464" h="36" measuredW="206" measuredH="34" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
-        <hrefs>Lieferung%20Abholer%26bm%3BLieferung%20Abholer.bmml%26bm%3BLieferung%20Abholer.bmml%26bm%3BLieferung%20Abholer.bmml%2C</hrefs>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2274%2C186%2C285%2C222%22%20href%3D%22Lieferung%2520Abholer.bmml%22%20alt%3D%22Lieferung%20Abholer%22%20id%3D%2249%22/%3E</map>
-        <selectedIndex>1</selectedIndex>
+        <hrefs>%2CLieferung%26bm%3BLieferung.bmml%26bm%3BLieferung.bmml%26bm%3BLieferung.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22285%2C186%2C537%2C222%22%20href%3D%22Lieferung.bmml%22%20alt%3D%22Lieferung%22%20id%3D%2249%22/%3E</map>
+        <selectedIndex>0</selectedIndex>
         <size>20</size>
         <text>Abholer%2C%20Lieferung</text>
       </controlProperties>
@@ -42,15 +42,15 @@
         <text>Zentralstrasse%2045%0A6010%20Kriens</text>
       </controlProperties>
     </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="139" y="692" w="-1" h="-1" measuredW="72" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="139" y="537" w="-1" h="-1" measuredW="88" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Lieferwoche</text>
+        <text>Abholzeitpunkt</text>
       </controlProperties>
     </control>
-    <control controlID="55" controlTypeID="com.balsamiq.mockups::ComboBox" x="139" y="713" w="464" h="-1" measuredW="297" measuredH="35" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::ComboBox" x="139" y="558" w="464" h="-1" measuredW="88" measuredH="35" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <size>24</size>
-        <text>KW%2041%20-%20%2806.09.%20-%2012.09.%29</text>
+        <text>Jetzt</text>
       </controlProperties>
     </control>
     <control controlID="56" controlTypeID="com.balsamiq.mockups::SubTitle" x="806" y="151" w="-1" h="-1" measuredW="77" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
@@ -60,45 +60,22 @@
     </control>
     <control controlID="57" controlTypeID="com.balsamiq.mockups::Paragraph" x="806" y="215" w="226" h="67" measuredW="275" measuredH="80" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Warenwert%09%091%27470.00%20CHF%0ALiefer-/Versandkosten%09%20%20200.00%20CHF%0AMontagekosten%09%09%20%20120.00%20CHF%0AMwSt%09%09%09%20%20143.20%20CHF</text>
+        <text>Warenwert%09%091%27470.00%20CHF%0AMwSt%09%09%09%20%20%20117.60%20CHF</text>
       </controlProperties>
     </control>
     <control controlID="58" controlTypeID="com.balsamiq.mockups::HRule" x="809" y="281" w="215" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="-1"/>
-    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="808" y="297" w="-1" h="-1" measuredW="222" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="808" y="297" w="-1" h="-1" measuredW="226" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Total%20%09%09%20%20%20%20%20%20%20%20%20%20%20*1%27820.00%20CHF*</text>
+        <text>Total%20%09%09%09*1%27587.60%20CHF*</text>
       </controlProperties>
     </control>
-    <control controlID="61" controlTypeID="com.balsamiq.mockups::Switch" x="293" y="787" w="-1" h="-1" measuredW="49" measuredH="28" zOrder="13" locked="false" isInGroup="-1"/>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::Label" x="139" y="785" w="-1" h="-1" measuredW="94" measuredH="32" zOrder="14" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>24</size>
-        <text>Montage</text>
-      </controlProperties>
-    </control>
-    <control controlID="63" controlTypeID="com.balsamiq.mockups::Button" x="1240" y="822" w="321" h="47" measuredW="292" measuredH="32" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Button" x="1246" y="822" w="315" h="47" measuredW="289" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <href>Zahlung%26bm%3BZahlung.bmml%26bm%3BZahlung.bmml%26bm%3BZahlung.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221175%2C793%2C1496%2C840%22%20href%3D%22Zahlung.bmml%22%20alt%3D%22Zahlung%22%20id%3D%2263%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221181%2C793%2C1496%2C840%22%20href%3D%22Zahlung.bmml%22%20alt%3D%22Zahlung%22%20id%3D%2263%22/%3E</map>
         <size>24</size>
-        <text>Bezahlen%20-%201%27933.20%20CHF</text>
-      </controlProperties>
-    </control>
-    <control controlID="65" controlTypeID="com.balsamiq.mockups::Label" x="139" y="529" w="-1" h="-1" measuredW="82" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Lieferadresse</text>
-      </controlProperties>
-    </control>
-    <control controlID="66" controlTypeID="com.balsamiq.mockups::TextArea" x="139" y="553" w="464" h="109" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>24</size>
-        <text>Bahnhofstrasse%203%0A6210%20Sursee</text>
-      </controlProperties>
-    </control>
-    <control controlID="69" controlTypeID="com.balsamiq.mockups::CheckBox" x="272" y="528" w="-1" h="-1" measuredW="331" measuredH="22" zOrder="18" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Lieferadresse%20wird%20bei%20Lieferung%20zur%20Kundenadresse</text>
+        <text>Bezahlen%20-%201%27587.00%20CHF</text>
       </controlProperties>
     </control>
   </controls>

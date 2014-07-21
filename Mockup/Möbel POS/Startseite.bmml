@@ -24,5 +24,10 @@
         <text>Wunschliste</text>
       </controlProperties>
     </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="1051" y="146" w="-1" h="-1" measuredW="143" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>-Bestimmungsort-%20%5BSursee%5D</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

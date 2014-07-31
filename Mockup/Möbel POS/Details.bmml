@@ -166,8 +166,8 @@
     <control controlID="51" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1319" y="249" w="210" h="100" measuredW="194" measuredH="93" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
-        <href>Results%26bm%3BResults.bmml%26bm%3BResults.bmml%26bm%3BResults.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221254%2C220%2C1464%2C320%22%20href%3D%22Results.bmml%22%20alt%3D%22Results%22%20id%3D%2251%22/%3E</map>
+        <href>Details%20Bezugsort%26bm%3BDetails%20Bezugsort.bmml%26bm%3BDetails%20Bezugsort.bmml%26bm%3BDetails%20Bezugsort.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221254%2C220%2C1464%2C320%22%20href%3D%22Details%2520Bezugsort.bmml%22%20alt%3D%22Details%20Bezugsort%22%20id%3D%2251%22/%3E</map>
         <size>32</size>
         <text>Hinzuf%FCgen%0Azur%20Wunschliste</text>
       </controlProperties>
@@ -205,13 +205,13 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::IconLabel" x="1151" y="185" w="-1" h="-1" measuredW="121" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::IconLabel" x="1101" y="185" w="-1" h="-1" measuredW="121" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
         <icon>DotIcon%7Csmall</icon>
         <labelPosition>right</labelPosition>
         <size>20</size>
-        <text>Verf%FCgbar</text>
+        <text>%7Bcolor%3Ablack%7DVerf%FCgbar%7Bcolor%7D</text>
       </controlProperties>
     </control>
     <control controlID="63" controlTypeID="com.balsamiq.mockups::SubTitle" x="828" y="456" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
@@ -317,6 +317,15 @@
     <control controlID="81" controlTypeID="com.balsamiq.mockups::Label" x="1443" y="550" w="-1" h="-1" measuredW="112" measuredH="21" zOrder="42" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Tiefschlaf%20Duo%20Eco</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::IconLabel" x="1234" y="185" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>0</color>
+        <icon>DownFillTriangleIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <size>20</size>
+        <text>%20</text>
       </controlProperties>
     </control>
   </controls>

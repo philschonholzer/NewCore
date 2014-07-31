@@ -166,8 +166,8 @@
     <control controlID="51" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1319" y="249" w="210" h="100" measuredW="194" measuredH="93" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16777215</color>
-        <href>Results%26bm%3BResults.bmml%26bm%3BResults.bmml%26bm%3BResults.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221254%2C220%2C1464%2C320%22%20href%3D%22Results.bmml%22%20alt%3D%22Results%22%20id%3D%2251%22/%3E</map>
+        <href>Details%26bm%3BDetails.bmml%26bm%3BDetails.bmml%26bm%3BDetails.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221254%2C220%2C1464%2C320%22%20href%3D%22Details.bmml%22%20alt%3D%22Details%22%20id%3D%2251%22/%3E</map>
         <size>32</size>
         <text>Hinzuf%FCgen%20%0Azum%20Warenkorb</text>
       </controlProperties>
@@ -447,6 +447,8 @@
     <control controlID="115" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1346" y="664" w="-1" h="-1" measuredW="139" measuredH="72" zOrder="65" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
+        <href>Results%26bm%3BResults.bmml%26bm%3BResults.bmml%26bm%3BResults.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221281%2C635%2C1420%2C707%22%20href%3D%22Results.bmml%22%20alt%3D%22Results%22%20id%3D%22115%22/%3E</map>
         <size>20</size>
         <text>*1*%20St%FCck%20%0Ain%20den%20*Warenkorb*</text>
       </controlProperties>

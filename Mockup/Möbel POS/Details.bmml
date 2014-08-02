@@ -205,16 +205,18 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::IconLabel" x="1101" y="185" w="-1" h="-1" measuredW="121" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::IconLabel" x="1077" y="185" w="182" h="-1" measuredW="146" measuredH="28" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
+        <href>Details%20Verf%FCgbarkeit%26bm%3BDetails%20Verf%FCgbarkeit.bmml%26bm%3BDetails%20Verf%FCgbarkeit.bmml%26bm%3BDetails%20Verf%FCgbarkeit.bmml</href>
         <icon>DotIcon%7Csmall</icon>
         <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221012%2C156%2C1194%2C184%22%20href%3D%22Details%2520Verf%25C3%25BCgbarkeit.bmml%22%20alt%3D%22Details%20Verf%FCgbarkeit%22%20id%3D%2262%22/%3E</map>
         <size>20</size>
-        <text>%7Bcolor%3Ablack%7DVerf%FCgbar%7Bcolor%7D</text>
+        <text>%20%7Bcolor%3Ablack%7D2%20Verf%FCgbar%7Bcolor%7D</text>
       </controlProperties>
     </control>
-    <control controlID="63" controlTypeID="com.balsamiq.mockups::SubTitle" x="828" y="456" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::SubTitle" x="828" y="456" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Modell</text>
       </controlProperties>

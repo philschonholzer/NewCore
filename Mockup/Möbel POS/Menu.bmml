@@ -35,5 +35,13 @@
         <src>./assets/symbols.bmml#Header</src>
       </controlProperties>
     </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::List" x="1367" y="139" w="203" h="314" measuredW="100" measuredH="310" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hasHeader>false</hasHeader>
+        <rowHeight>38</rowHeight>
+        <size>20</size>
+        <text>%7Bcolor%3Ablue%7DKauferfassung%7Bcolor%7D%0AKunden%0AArtikel%0AAuszeichnungen%0AUmlagerungen%0ATransportverleih%0ABeanstandung%0AInfos%20allgemein</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>

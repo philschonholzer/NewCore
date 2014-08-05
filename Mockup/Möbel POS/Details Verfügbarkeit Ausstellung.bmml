@@ -208,8 +208,10 @@
     <control controlID="62" controlTypeID="com.balsamiq.mockups::IconLabel" x="1077" y="185" w="164" h="-1" measuredW="134" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
+        <href>Details%26bm%3BDetails.bmml%26bm%3BDetails.bmml%26bm%3BDetails.bmml</href>
         <icon>DotIcon%7Csmall</icon>
         <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221012%2C156%2C1176%2C184%22%20href%3D%22Details.bmml%22%20alt%3D%22Details%22%20id%3D%2262%22/%3E</map>
         <size>20</size>
         <text>%20%7Bcolor%3Ablack%7D2%20-ab%20Lager-%7Bcolor%7D</text>
       </controlProperties>
@@ -319,7 +321,7 @@
         <text>Tiefschlaf%20Duo%20Eco</text>
       </controlProperties>
     </control>
-    <control controlID="82" controlTypeID="com.balsamiq.mockups::IconLabel" x="1227" y="185" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="44" locked="false" isInGroup="-1">
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::IconLabel" x="1227" y="185" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
         <icon>DownFillTriangleIcon%7Cxsmall</icon>
@@ -328,8 +330,8 @@
         <text>%20</text>
       </controlProperties>
     </control>
-    <control controlID="83" controlTypeID="com.balsamiq.mockups::Canvas" x="856" y="218" w="404" h="257" measuredW="100" measuredH="70" zOrder="45" locked="false" isInGroup="-1"/>
-    <control controlID="84" controlTypeID="com.balsamiq.mockups::IconLabel" x="888" y="255" w="275" h="-1" measuredW="152" measuredH="28" zOrder="46" locked="false" isInGroup="-1">
+    <control controlID="83" controlTypeID="com.balsamiq.mockups::Canvas" x="856" y="218" w="404" h="257" measuredW="100" measuredH="70" zOrder="44" locked="false" isInGroup="-1"/>
+    <control controlID="84" controlTypeID="com.balsamiq.mockups::IconLabel" x="888" y="255" w="275" h="-1" measuredW="152" measuredH="28" zOrder="45" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
         <icon>DotIcon%7Csmall</icon>
@@ -338,7 +340,7 @@
         <text>%20%20%20%7Bcolor%3Ablack%7D2%20%20-ab%20Lager-%7Bcolor%7D</text>
       </controlProperties>
     </control>
-    <control controlID="85" controlTypeID="com.balsamiq.mockups::IconLabel" x="888" y="323" w="289" h="-1" measuredW="263" measuredH="28" zOrder="47" locked="false" isInGroup="-1">
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::IconLabel" x="888" y="323" w="289" h="-1" measuredW="263" measuredH="28" zOrder="46" locked="false" isInGroup="-1">
       <controlProperties>
         <color>16776960</color>
         <icon>DotIcon%7Csmall</icon>
@@ -347,16 +349,18 @@
         <text>%20%7Bcolor%3Ablack%7D10%20%20%20-in%205%20Tagen%20verf%FCgbar-%7Bcolor%7D</text>
       </controlProperties>
     </control>
-    <control controlID="86" controlTypeID="com.balsamiq.mockups::IconLabel" x="888" y="289" w="289" h="-1" measuredW="206" measuredH="28" zOrder="48" locked="false" isInGroup="-1">
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::IconLabel" x="888" y="289" w="289" h="-1" measuredW="206" measuredH="28" zOrder="47" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
+        <href>Details%20Verf%FCgbarkeit%26bm%3BDetails%20Verf%FCgbarkeit.bmml%26bm%3BDetails%20Verf%FCgbarkeit.bmml%26bm%3BDetails%20Verf%FCgbarkeit.bmml</href>
         <icon>DotIcon%7Csmall</icon>
         <labelPosition>right</labelPosition>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22823%2C260%2C1112%2C288%22%20href%3D%22Details%2520Verf%25C3%25BCgbarkeit.bmml%22%20alt%3D%22Details%20Verf%FCgbarkeit%22%20id%3D%2286%22/%3E</map>
         <size>20</size>
         <text>%20%20%20%7Bcolor%3Ablack%7D1%20%20%20-ab%20Ausstellung-%7Bcolor%7D</text>
       </controlProperties>
     </control>
-    <control controlID="87" controlTypeID="com.balsamiq.mockups::IconLabel" x="888" y="376" w="164" h="-1" measuredW="126" measuredH="28" zOrder="49" locked="false" isInGroup="-1">
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::IconLabel" x="888" y="376" w="164" h="-1" measuredW="126" measuredH="28" zOrder="48" locked="false" isInGroup="-1">
       <controlProperties>
         <color>10066329</color>
         <icon>DotIcon%7Csmall</icon>
@@ -365,7 +369,7 @@
         <text>%20%7Bcolor%3Ablack%7DBestellbar%7Bcolor%7D</text>
       </controlProperties>
     </control>
-    <control controlID="88" controlTypeID="com.balsamiq.mockups::IconLabel" x="888" y="410" w="290" h="-1" measuredW="252" measuredH="28" zOrder="50" locked="false" isInGroup="-1">
+    <control controlID="88" controlTypeID="com.balsamiq.mockups::IconLabel" x="888" y="410" w="290" h="-1" measuredW="252" measuredH="28" zOrder="49" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13576743</color>
         <icon>DotIcon%7Csmall</icon>
@@ -374,7 +378,7 @@
         <text>%20%7Bcolor%3Ablack%7DNicht%20mehr%20im%20Sortiment%7Bcolor%7D</text>
       </controlProperties>
     </control>
-    <control controlID="89" controlTypeID="com.balsamiq.mockups::IconLabel" x="1056" y="255" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="51" locked="false" isInGroup="-1">
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::IconLabel" x="1056" y="255" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="50" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
         <icon>DownFillTriangleIcon%7Cxsmall</icon>
@@ -383,7 +387,7 @@
         <text>%20</text>
       </controlProperties>
     </control>
-    <control controlID="90" controlTypeID="com.balsamiq.mockups::IconLabel" x="1109" y="289" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="52" locked="false" isInGroup="-1">
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::IconLabel" x="1109" y="289" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="51" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
         <icon>DownFillTriangleIcon%7Cxsmall</icon>
@@ -392,7 +396,7 @@
         <text>%20</text>
       </controlProperties>
     </control>
-    <control controlID="91" controlTypeID="com.balsamiq.mockups::IconLabel" x="1163" y="323" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="53" locked="false" isInGroup="-1">
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::IconLabel" x="1163" y="323" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="52" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
         <icon>DownFillTriangleIcon%7Cxsmall</icon>
@@ -401,27 +405,11 @@
         <text>%20</text>
       </controlProperties>
     </control>
-    <control controlID="92" controlTypeID="com.balsamiq.mockups::Canvas" x="120" y="140" w="1459" h="722" measuredW="100" measuredH="70" zOrder="43" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>0</backgroundAlpha>
-        <borderStyle>none</borderStyle>
-        <href>Details%26bm%3BDetails.bmml%26bm%3BDetails.bmml%26bm%3BDetails.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2255%2C111%2C1514%2C833%22%20href%3D%22Details.bmml%22%20alt%3D%22Details%22%20id%3D%2292%22/%3E</map>
-      </controlProperties>
-    </control>
-    <control controlID="93" controlTypeID="com.balsamiq.mockups::Canvas" x="917" y="318" w="214" h="58" measuredW="100" measuredH="70" zOrder="55" locked="false" isInGroup="-1"/>
-    <control controlID="94" controlTypeID="com.balsamiq.mockups::Label" x="936" y="332" w="-1" h="-1" measuredW="175" measuredH="28" zOrder="56" locked="false" isInGroup="-1">
+    <control controlID="93" controlTypeID="com.balsamiq.mockups::Canvas" x="917" y="318" w="214" h="58" measuredW="100" measuredH="70" zOrder="53" locked="false" isInGroup="-1"/>
+    <control controlID="94" controlTypeID="com.balsamiq.mockups::Label" x="936" y="332" w="-1" h="-1" measuredW="175" measuredH="28" zOrder="54" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
         <text>Koije%205G%20%20%20%20%20%20%20%20%20%20%20%20%20%20%201</text>
-      </controlProperties>
-    </control>
-    <control controlID="95" controlTypeID="com.balsamiq.mockups::Canvas" x="857" y="220" w="402" h="254" measuredW="100" measuredH="70" zOrder="54" locked="false" isInGroup="-1">
-      <controlProperties>
-        <backgroundAlpha>0</backgroundAlpha>
-        <borderStyle>none</borderStyle>
-        <href>Details%20Verf%FCgbarkeit%26bm%3BDetails%20Verf%FCgbarkeit.bmml%26bm%3BDetails%20Verf%FCgbarkeit.bmml%26bm%3BDetails%20Verf%FCgbarkeit.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22792%2C191%2C1194%2C445%22%20href%3D%22Details%2520Verf%25C3%25BCgbarkeit.bmml%22%20alt%3D%22Details%20Verf%FCgbarkeit%22%20id%3D%2295%22/%3E</map>
       </controlProperties>
     </control>
   </controls>

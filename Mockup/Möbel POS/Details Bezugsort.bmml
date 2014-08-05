@@ -205,13 +205,13 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::IconLabel" x="1101" y="185" w="-1" h="-1" measuredW="121" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::IconLabel" x="1101" y="185" w="-1" h="-1" measuredW="128" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
         <icon>DotIcon%7Csmall</icon>
         <labelPosition>right</labelPosition>
         <size>20</size>
-        <text>%7Bcolor%3Ablack%7DVerf%FCgbar%7Bcolor%7D</text>
+        <text>%7Bcolor%3Ablack%7D2%20-ab%20Lager-%7Bcolor%7D</text>
       </controlProperties>
     </control>
     <control controlID="63" controlTypeID="com.balsamiq.mockups::SubTitle" x="828" y="456" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="26" locked="true" isInGroup="-1">
@@ -319,7 +319,7 @@
         <text>Tiefschlaf%20Duo%20Eco</text>
       </controlProperties>
     </control>
-    <control controlID="82" controlTypeID="com.balsamiq.mockups::IconLabel" x="1234" y="185" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="43" locked="false" isInGroup="-1">
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::IconLabel" x="1240" y="185" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
         <icon>DownFillTriangleIcon%7Cxsmall</icon>

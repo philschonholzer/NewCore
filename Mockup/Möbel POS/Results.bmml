@@ -5,31 +5,31 @@
         <text>M%F6bel%20POS%0Ahttp%3A//bison/pos</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::SearchBox" x="176" y="134" w="371" h="-1" measuredW="120" measuredH="44" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::SearchBox" x="131" y="172" w="371" h="-1" measuredW="120" measuredH="44" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <color>0</color>
         <size>32</size>
         <text>Bett</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::VRule" x="1217" y="133" w="-1" h="736" measuredW="10" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::VRule" x="1217" y="173" w="-1" h="736" measuredW="10" measuredH="100" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13421772</color>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="1249" y="135" w="-1" h="-1" measuredW="217" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="1249" y="175" w="-1" h="-1" measuredW="217" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13421772</color>
         <text>Wunschliste</text>
       </controlProperties>
     </control>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="513" y="145" w="-1" h="-1" measuredW="24" measuredH="39" zOrder="4" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="453" y="185" w="-1" h="-1" measuredW="24" measuredH="39" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <icon>XIcon%7Csmall</icon>
         <text>%20</text>
       </controlProperties>
     </control>
-    <control controlID="18" controlTypeID="com.balsamiq.mockups::Component" x="154" y="220" w="491" h="208" measuredW="491" measuredH="208" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Component" x="154" y="260" w="491" h="208" measuredW="491" measuredH="208" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="1">
           <src>../Möbel%20POS/assets/Bett.png</src>
@@ -40,7 +40,7 @@
         <src>./assets/symbols.bmml#SearchResult</src>
       </controlProperties>
     </control>
-    <control controlID="20" controlTypeID="com.balsamiq.mockups::Component" x="674" y="220" w="491" h="208" measuredW="491" measuredH="208" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Component" x="674" y="260" w="491" h="208" measuredW="491" measuredH="208" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="1">
           <src>../Möbel%20POS/assets/Delux.jpg</src>
@@ -54,9 +54,9 @@
         <src>./assets/symbols.bmml#SearchResult</src>
       </controlProperties>
     </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::Component" x="154" y="456" w="491" h="208" measuredW="491" measuredH="208" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Component" x="154" y="496" w="491" h="208" measuredW="491" measuredH="208" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2289%2C427%2C580%2C635%22%20href%3D%22Details.bmml%22%20alt%3D%22Details%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22111%2C448%2C273%2C614%22%20href%3D%22Details.bmml%22%20alt%3D%22Details%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22290%2C475%2C565%2C587%22%20href%3D%22Details.bmml%22%20alt%3D%22Details%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22290%2C448%2C536%2C475%22%20href%3D%22Details.bmml%22%20alt%3D%22Details%22%20id%3D%223%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2289%2C467%2C580%2C675%22%20href%3D%22Details.bmml%22%20alt%3D%22Details%22%20id%3D%220%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22111%2C488%2C273%2C654%22%20href%3D%22Details.bmml%22%20alt%3D%22Details%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22290%2C515%2C565%2C627%22%20href%3D%22Details.bmml%22%20alt%3D%22Details%22%20id%3D%222%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22290%2C488%2C536%2C515%22%20href%3D%22Details.bmml%22%20alt%3D%22Details%22%20id%3D%223%22/%3E</map>
         <override controlID="0">
           <href>Details%26bm%3BDetails.bmml%26bm%3BDetails.bmml%26bm%3BDetails.bmml</href>
         </override>
@@ -75,7 +75,7 @@
         <src>./assets/symbols.bmml#SearchResult</src>
       </controlProperties>
     </control>
-    <control controlID="26" controlTypeID="com.balsamiq.mockups::Component" x="674" y="456" w="491" h="208" measuredW="491" measuredH="208" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Component" x="674" y="496" w="491" h="208" measuredW="491" measuredH="208" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="1">
           <src>../Möbel%20POS/assets/Kinderbett.png</src>
@@ -89,35 +89,45 @@
         <src>./assets/symbols.bmml#SearchResult</src>
       </controlProperties>
     </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::Component" x="154" y="691" w="491" h="208" measuredW="491" measuredH="208" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Component" x="154" y="731" w="491" h="169" measuredW="491" measuredH="169" zOrder="10" locked="false" isInGroup="-1">
       <controlProperties>
-        <override controlID="1">
+        <override controlID="0" x="0" y="0" w="491" h="169"/>
+        <override controlID="1" x="22" y="21" w="162" h="145">
+          <crop>0%2C0%2C1000%2C876</crop>
           <src>../Möbel%20POS/assets/Small.jpg</src>
         </override>
-        <override controlID="2">
+        <override controlID="2" x="201" y="48" w="275" h="112">
           <text>Zaugg%20Schlaftr%E4ume%0A230cm%20x%20180cm%0A%20%0A470.-%20CHF%0A%20%0A12%20Verf%FCgbar</text>
         </override>
-        <override controlID="3">
+        <override controlID="3" x="201" y="21" w="-1" h="-1">
           <text>Doppelbett%20Karma</text>
         </override>
+        <override controlID="4" x="430" y="151" w="46" h="18">
+          <icon>IBeamIcon%7Cxsmall</icon>
+        </override>
         <src>./assets/symbols.bmml#SearchResult</src>
       </controlProperties>
     </control>
-    <control controlID="28" controlTypeID="com.balsamiq.mockups::Component" x="674" y="691" w="491" h="208" measuredW="491" measuredH="208" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Component" x="674" y="731" w="491" h="169" measuredW="491" measuredH="169" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
-        <override controlID="1">
+        <override controlID="0" x="0" y="0" w="491" h="169"/>
+        <override controlID="1" x="22" y="21" w="162" h="146">
+          <crop>0%2C0%2C1000%2C880</crop>
           <src>../Möbel%20POS/assets/Bett.png</src>
         </override>
-        <override controlID="2">
+        <override controlID="2" x="201" y="48" w="275" h="112">
           <text>Zaugg%20Schlaftr%E4ume%0A240cm%20x%20200cm%0A%20%0A690.-%20CHF%0A%20%0A3%20Verf%FCgbar</text>
         </override>
-        <override controlID="3">
+        <override controlID="3" x="201" y="21" w="264" h="27">
           <text>Doppelbett%20Karma%20Extra</text>
+        </override>
+        <override controlID="4" x="430" y="151" w="46" h="18">
+          <icon>IBeamIcon%7Cxsmall</icon>
         </override>
         <src>./assets/symbols.bmml#SearchResult</src>
       </controlProperties>
     </control>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::Component" x="1248" y="220" w="352" h="130" measuredW="352" measuredH="130" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Component" x="1248" y="260" w="352" h="130" measuredW="352" measuredH="130" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="2">
           <text>Tiefschlaf%20Duo%20Delux</text>
@@ -128,7 +138,7 @@
         <src>./assets/symbols.bmml#ListItem</src>
       </controlProperties>
     </control>
-    <control controlID="42" controlTypeID="com.balsamiq.mockups::Component" x="1249" y="376" w="352" h="130" measuredW="352" measuredH="130" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Component" x="1249" y="416" w="352" h="130" measuredW="352" measuredH="130" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="1">
           <src>../Möbel%20POS/assets/Matratze.png</src>
@@ -145,23 +155,29 @@
         <src>./assets/symbols.bmml#ListItem</src>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::Button" x="1249" y="772" w="351" h="47" measuredW="294" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Button" x="1249" y="783" w="351" h="47" measuredW="294" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <align>center</align>
         <href>Lieferung%26bm%3BLieferung.bmml%26bm%3BLieferung.bmml%26bm%3BLieferung.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221184%2C743%2C1535%2C790%22%20href%3D%22Lieferung.bmml%22%20alt%3D%22Lieferung%22%20id%3D%2246%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221184%2C754%2C1535%2C801%22%20href%3D%22Lieferung.bmml%22%20alt%3D%22Lieferung%22%20id%3D%2246%22/%3E</map>
         <size>24</size>
         <text>Kaufen%20%20%20%20%20%20%201%27587.60%20CHF</text>
       </controlProperties>
     </control>
-    <control controlID="47" controlTypeID="com.balsamiq.mockups::Paragraph" x="1249" y="832" w="366" h="67" measuredW="275" measuredH="80" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Paragraph" x="1249" y="843" w="366" h="67" measuredW="275" measuredH="80" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Inkl.%20MwSt%09%09%09%09%20%20%20%20%20%20%20%20%20117.60%20CHF%0AExkl.%20optionale%20Liefer-/Versandkosten%20%20%20%09%20%20%20%20%20%20%20200.00%20CHF%0AExkl.%20pptionale%20Montagekosten%09%09%20%20%20%20%20%20%20120.00%20CHF</text>
       </controlProperties>
     </control>
-    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="1051" y="146" w="-1" h="-1" measuredW="143" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Label" x="1050" y="184" w="-1" h="-1" measuredW="143" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <text>-Bestimmungsort-%20%5BSursee%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Component" x="68" y="103" w="1562" h="52" measuredW="1562" measuredH="52" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221366%2C86%2C1432%2C114%22%20href%3D%22Apps.bmml%22%20alt%3D%22Apps%22%20id%3D%221%22/%3E</map>
+        <src>./assets/symbols.bmml#Header</src>
       </controlProperties>
     </control>
   </controls>

@@ -31,8 +31,19 @@
     </control>
     <control controlID="17" controlTypeID="com.balsamiq.mockups::Component" x="69" y="97" w="1562" h="52" measuredW="1562" measuredH="52" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221367%2C86%2C1433%2C114%22%20href%3D%22Apps.bmml%22%20alt%3D%22Apps%22%20id%3D%221%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221367%2C86%2C1433%2C114%22%20href%3D%22Startseite.bmml%22%20alt%3D%22Startseite%22%20id%3D%221%22/%3E</map>
+        <override controlID="1">
+          <href>Startseite%26bm%3BStartseite.bmml%26bm%3BStartseite.bmml%26bm%3BStartseite.bmml</href>
+        </override>
         <src>./assets/symbols.bmml#Header</src>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::List" x="1367" y="139" w="203" h="314" measuredW="100" measuredH="310" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hasHeader>false</hasHeader>
+        <rowHeight>38</rowHeight>
+        <size>20</size>
+        <text>%7Bcolor%3Ablue%7DKauferfassung%7Bcolor%7D%0AKunden%0AArtikel%0AAuszeichnungen%0AUmlagerungen%0ATransportverleih%0ABeanstandung%0AInfos%20allgemein</text>
       </controlProperties>
     </control>
   </controls>

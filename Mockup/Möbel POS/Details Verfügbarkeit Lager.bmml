@@ -205,13 +205,13 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::IconLabel" x="1077" y="185" w="164" h="-1" measuredW="134" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::IconLabel" x="1077" y="185" w="164" h="-1" measuredW="104" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
         <icon>DotIcon%7Csmall</icon>
         <labelPosition>right</labelPosition>
         <size>20</size>
-        <text>%20%7Bcolor%3Ablack%7D2%20-ab%20Lager-%7Bcolor%7D</text>
+        <text>%20%7Bcolor%3Ablack%7D2%20St%FCck%7Bcolor%7D</text>
       </controlProperties>
     </control>
     <control controlID="63" controlTypeID="com.balsamiq.mockups::SubTitle" x="828" y="456" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="26" locked="false" isInGroup="-1">

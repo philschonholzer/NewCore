@@ -213,7 +213,7 @@
         <labelPosition>right</labelPosition>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221012%2C156%2C1176%2C184%22%20href%3D%22Details.bmml%22%20alt%3D%22Details%22%20id%3D%2262%22/%3E</map>
         <size>20</size>
-        <text>%20%7Bcolor%3Ablack%7D2%20-ab%20Lager-%7Bcolor%7D</text>
+        <text>%20%7Bcolor%3Ablack%7D2%20St%FCck%7Bcolor%7D</text>
       </controlProperties>
     </control>
     <control controlID="63" controlTypeID="com.balsamiq.mockups::SubTitle" x="828" y="456" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="26" locked="false" isInGroup="-1">

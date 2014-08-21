@@ -153,12 +153,12 @@
       </controlProperties>
     </control>
     <control controlID="48" controlTypeID="com.balsamiq.mockups::Canvas" x="118" y="139" w="1461" h="725" measuredW="100" measuredH="70" zOrder="16" locked="true" isInGroup="-1"/>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::Title" x="162" y="174" w="-1" h="-1" measuredW="533" measuredH="43" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Title" x="162" y="174" w="-1" h="-1" measuredW="409" measuredH="43" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Tiefschlaf%20Duo%20Classic%20-%20Cora</text>
+        <text>Tiefschlaf%20Duo%20Classic</text>
       </controlProperties>
     </control>
-    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="730" y="191" w="-1" h="-1" measuredW="84" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="586" y="191" w="-1" h="-1" measuredW="84" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
       <controlProperties>
         <text>03060008_01</text>
       </controlProperties>
@@ -178,114 +178,52 @@
         <text>390.-</text>
       </controlProperties>
     </control>
-    <control controlID="57" controlTypeID="com.balsamiq.mockups::Paragraph" x="793" y="249" w="-1" h="-1" measuredW="275" measuredH="80" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Paragraph" x="790" y="350" w="-1" h="-1" measuredW="275" measuredH="80" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
         <size>20</size>
         <text>-%20echtes%20Buchenholz%0A-%20F%FCsse%20Metail</text>
       </controlProperties>
     </control>
-    <control controlID="58" controlTypeID="com.balsamiq.mockups::Image" x="828" y="491" w="175" h="85" measuredW="450" measuredH="277" zOrder="23" locked="false" isInGroup="-1">
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Image" x="162" y="676" w="94" h="64" measuredW="450" measuredH="277" zOrder="23" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <src>./assets/ClassicDetail.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="59" controlTypeID="com.balsamiq.mockups::Image" x="1029" y="491" w="175" h="85" measuredW="450" measuredH="277" zOrder="24" locked="false" isInGroup="-1">
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Image" x="291" y="676" w="94" h="64" measuredW="450" measuredH="277" zOrder="24" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <src>./assets/ClassicDetail.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="60" controlTypeID="com.balsamiq.mockups::Image" x="1230" y="491" w="175" h="85" measuredW="450" measuredH="277" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Image" x="419" y="676" w="94" h="64" measuredW="450" measuredH="277" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <src>./assets/ClassicDetail.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="62" controlTypeID="com.balsamiq.mockups::IconLabel" x="1077" y="185" w="182" h="-1" measuredW="134" measuredH="28" zOrder="27" locked="false" isInGroup="-1">
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::IconLabel" x="1077" y="185" w="125" h="-1" measuredW="104" measuredH="28" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <color>40463</color>
         <href>Details%20Verf%FCgbarkeit%26bm%3BDetails%20Verf%FCgbarkeit.bmml%26bm%3BDetails%20Verf%FCgbarkeit.bmml%26bm%3BDetails%20Verf%FCgbarkeit.bmml</href>
         <icon>DotIcon%7Csmall</icon>
         <labelPosition>right</labelPosition>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221012%2C156%2C1194%2C184%22%20href%3D%22Details%2520Verf%25C3%25BCgbarkeit.bmml%22%20alt%3D%22Details%20Verf%FCgbarkeit%22%20id%3D%2262%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221012%2C156%2C1137%2C184%22%20href%3D%22Details%2520Verf%25C3%25BCgbarkeit.bmml%22%20alt%3D%22Details%20Verf%FCgbarkeit%22%20id%3D%2262%22/%3E</map>
         <size>20</size>
-        <text>%20%7Bcolor%3Ablack%7D2%20-ab%20Lager-%7Bcolor%7D</text>
+        <text>%20%7Bcolor%3Ablack%7D2%20St%FCck%7Bcolor%7D</text>
       </controlProperties>
     </control>
-    <control controlID="63" controlTypeID="com.balsamiq.mockups::SubTitle" x="828" y="456" w="-1" h="-1" measuredW="70" measuredH="27" zOrder="26" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Modell</text>
-      </controlProperties>
-    </control>
-    <control controlID="64" controlTypeID="com.balsamiq.mockups::Label" x="839" y="550" w="-1" h="-1" measuredW="123" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Tiefschlaf%20Duo%20Delux</text>
-        <textOrientation>right</textOrientation>
-      </controlProperties>
-    </control>
-    <control controlID="65" controlTypeID="com.balsamiq.mockups::Label" x="1041" y="550" w="-1" h="-1" measuredW="90" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Tiefschlaf%20Duo%20</text>
-      </controlProperties>
-    </control>
-    <control controlID="66" controlTypeID="com.balsamiq.mockups::Label" x="1241" y="550" w="-1" h="-1" measuredW="121" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Tiefschlaf%20Duo%20Extra</text>
-      </controlProperties>
-    </control>
-    <control controlID="68" controlTypeID="com.balsamiq.mockups::SubTitle" x="824" y="350" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="31" locked="false" isInGroup="-1">
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::SubTitle" x="821" y="451" w="-1" h="-1" measuredW="112" measuredH="27" zOrder="27" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Dimension</text>
       </controlProperties>
     </control>
-    <control controlID="69" controlTypeID="com.balsamiq.mockups::Paragraph" x="826" y="386" w="-1" h="-1" measuredW="275" measuredH="80" zOrder="32" locked="false" isInGroup="-1">
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Paragraph" x="823" y="487" w="-1" h="-1" measuredW="275" measuredH="80" zOrder="28" locked="false" isInGroup="-1">
       <controlProperties>
         <text>ca.%20220cm%20x%20160cm%0A%5BVerpackung%5D</text>
-      </controlProperties>
-    </control>
-    <control controlID="70" controlTypeID="com.balsamiq.mockups::SubTitle" x="162" y="649" w="-1" h="-1" measuredW="145" measuredH="27" zOrder="33" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Zusatzartikel</text>
-      </controlProperties>
-    </control>
-    <control controlID="71" controlTypeID="com.balsamiq.mockups::Image" x="162" y="691" w="119" h="122" measuredW="77" measuredH="79" zOrder="34" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Nachttisch</text>
-      </controlProperties>
-    </control>
-    <control controlID="72" controlTypeID="com.balsamiq.mockups::Image" x="310" y="691" w="119" h="122" measuredW="77" measuredH="79" zOrder="35" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Bettlampe</text>
-      </controlProperties>
-    </control>
-    <control controlID="73" controlTypeID="com.balsamiq.mockups::Image" x="458" y="691" w="119" h="122" measuredW="77" measuredH="79" zOrder="36" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Matraze</text>
-      </controlProperties>
-    </control>
-    <control controlID="74" controlTypeID="com.balsamiq.mockups::Image" x="606" y="691" w="119" h="122" measuredW="77" measuredH="79" zOrder="37" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Decke</text>
-      </controlProperties>
-    </control>
-    <control controlID="75" controlTypeID="com.balsamiq.mockups::Image" x="754" y="691" w="119" h="122" measuredW="77" measuredH="79" zOrder="38" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Bettbezug</text>
-      </controlProperties>
-    </control>
-    <control controlID="76" controlTypeID="com.balsamiq.mockups::Image" x="902" y="691" w="119" h="122" measuredW="77" measuredH="79" zOrder="39" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Teppich</text>
-      </controlProperties>
-    </control>
-    <control controlID="77" controlTypeID="com.balsamiq.mockups::Image" x="1050" y="691" w="119" h="122" measuredW="77" measuredH="79" zOrder="40" locked="false" isInGroup="-1">
-      <controlProperties>
-        <bold>true</bold>
-        <text>Bild</text>
       </controlProperties>
     </control>
     <control controlID="78" controlTypeID="__group__" x="1309" y="186" w="100" h="27" measuredW="100" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
@@ -302,32 +240,10 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="79" controlTypeID="com.balsamiq.mockups::Image" x="162" y="249" w="631" h="327" measuredW="450" measuredH="277" zOrder="41" locked="false" isInGroup="-1">
+    <control controlID="79" controlTypeID="com.balsamiq.mockups::Image" x="161" y="329" w="563" h="327" measuredW="450" measuredH="277" zOrder="29" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/ClassicDetail.png</src>
         <text/>
-      </controlProperties>
-    </control>
-    <control controlID="80" controlTypeID="com.balsamiq.mockups::Image" x="1432" y="491" w="146" h="85" measuredW="375" measuredH="277" zOrder="42" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>square</borderStyle>
-        <crop>0%2C0%2C834%2C1000</crop>
-        <src>./assets/ClassicDetail.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::Label" x="1443" y="550" w="-1" h="-1" measuredW="112" measuredH="21" zOrder="43" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Tiefschlaf%20Duo%20Eco</text>
-      </controlProperties>
-    </control>
-    <control controlID="82" controlTypeID="com.balsamiq.mockups::IconLabel" x="1228" y="185" w="-1" h="-1" measuredW="25" measuredH="28" zOrder="44" locked="false" isInGroup="-1">
-      <controlProperties>
-        <color>0</color>
-        <icon>DownFillTriangleIcon%7Cxsmall</icon>
-        <labelPosition>right</labelPosition>
-        <size>20</size>
-        <text>%20</text>
       </controlProperties>
     </control>
     <control controlID="83" controlTypeID="com.balsamiq.mockups::IconLabel" x="93" y="142" w="-1" h="-1" measuredW="68" measuredH="28" zOrder="4" locked="false" isInGroup="-1">

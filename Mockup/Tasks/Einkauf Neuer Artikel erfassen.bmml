@@ -1,0 +1,287 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1506" measuredH="902" mockupW="1427" mockupH="865">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="79" y="37" w="1427" h="865" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Bison%0Ahttp%3A//bison</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Component" x="81" y="110" w="1422" h="52" measuredW="1422" measuredH="52" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221334%2C85%2C1394%2C113%22%20href%3D%22Apps.bmml%22%20alt%3D%22Apps%22%20id%3D%221%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="1422" h="52"/>
+        <override controlID="1" x="1332" y="12" w="60" h="28"/>
+        <override controlID="2" x="16" y="9" w="69" h="34"/>
+        <override controlID="3" x="100" y="15" w="148" h="27">
+          <text>Artikel</text>
+        </override>
+        <override controlID="4" x="289" y="18" w="70" h="21">
+          <color>13421772</color>
+          <text>Anzeigen</text>
+        </override>
+        <override controlID="5" x="380" y="18" w="92" h="21">
+          <color>16777215</color>
+          <text>Neu%20erfassen</text>
+        </override>
+        <override controlID="6" x="454" y="18" w="54" h="21">
+          <text>%20</text>
+        </override>
+        <override controlID="7" x="529" y="18" w="111" h="21">
+          <text>%20</text>
+        </override>
+        <override controlID="8" x="1211" y="16" w="87" h="24">
+          <text>Kim%20Kauf</text>
+        </override>
+        <override controlID="9" x="1154" y="10" w="-1" h="-1"/>
+        <src>./assets/symbols.bmml#Header</src>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::SubTitle" x="177" y="201" w="-1" h="-1" measuredW="143" measuredH="27" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Neuer%20Artikel</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Component" x="177" y="270" w="401" h="34" measuredW="401" measuredH="34" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1">
+          <text>Buttermilch</text>
+        </override>
+        <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Component" x="177" y="319" w="401" h="34" measuredW="401" measuredH="34" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Art</text>
+        </override>
+        <override controlID="1">
+          <align>right</align>
+          <text>Frische%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
+        </override>
+        <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Component" x="177" y="368" w="401" h="34" measuredW="401" measuredH="34" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Warengruppe</text>
+        </override>
+        <override controlID="1">
+          <align>right</align>
+          <text>K%E4se%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
+        </override>
+        <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Component" x="177" y="417" w="401" h="34" measuredW="401" measuredH="34" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Typ</text>
+        </override>
+        <override controlID="1">
+          <align>right</align>
+          <text>Einzel%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
+        </override>
+        <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Label" x="177" y="491" w="-1" h="-1" measuredW="101" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mengeneinheiten</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Component" x="177" y="521" w="401" h="34" measuredW="401" measuredH="34" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0">
+          <text>Basis%20ME</text>
+        </override>
+        <override controlID="1">
+          <align>right</align>
+          <text>Karton%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
+        </override>
+        <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::TextArea" x="177" y="611" w="401" h="82" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>Colli</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::TextArea" x="177" y="708" w="401" h="82" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>PLL</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::TextArea" x="177" y="805" w="401" h="69" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>PL</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::IconLabel" x="177" y="572" w="-1" h="-1" measuredW="186" measuredH="24" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>SquaredPlusIcon%7Csmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>%20Mengeneinheit%20hinzuf%FCgen</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::HRule" x="284" y="497" w="294" h="-1" measuredW="100" measuredH="10" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>14540253</color>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Canvas" x="1090" y="270" w="351" h="237" measuredW="100" measuredH="70" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>14540253</borderColor>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Icon" x="1201" y="324" w="-1" h="-1" measuredW="128" measuredH="128" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <icon>CameraIcon%7Cxxlarge</icon>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::Component" x="637" y="270" w="401" h="34" measuredW="401" measuredH="34" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="3" w="-1" h="-1">
+          <text>Herkunftsland</text>
+        </override>
+        <override controlID="1" x="158" y="0" w="243" h="-1">
+          <align>right</align>
+          <text>Schweiz%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::Component" x="637" y="369" w="401" h="34" measuredW="401" measuredH="34" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="3" w="-1" h="-1">
+          <text>Steuerklasse</text>
+        </override>
+        <override controlID="1" x="158" y="0" w="243" h="-1">
+          <align>right</align>
+          <text>v</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Component" x="637" y="441" w="401" h="34" measuredW="401" measuredH="34" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="3" w="-1" h="-1">
+          <text>Eink%E4ufergruppe</text>
+        </override>
+        <override controlID="1" x="158" y="0" w="243" h="-1">
+          <align>right</align>
+          <text>A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Component" x="637" y="490" w="401" h="34" measuredW="401" measuredH="34" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="3" w="-1" h="-1">
+          <text>Sortim.-Listenart</text>
+        </override>
+        <override controlID="1" x="158" y="0" w="243" h="-1">
+          <align>right</align>
+          <text>B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Component" x="637" y="538" w="401" h="34" measuredW="401" measuredH="34" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="3" w="-1" h="-1">
+          <text>Bezugsquelle</text>
+        </override>
+        <override controlID="1" x="158" y="0" w="243" h="-1">
+          <align>right</align>
+          <text>v</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Component" x="637" y="589" w="401" h="34" measuredW="401" measuredH="34" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="3" w="-1" h="-1">
+          <text>Servicevereinb.</text>
+        </override>
+        <override controlID="1" x="158" y="0" w="243" h="-1">
+          <align>right</align>
+          <text>Keine%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Component" x="637" y="658" w="401" h="34" measuredW="401" measuredH="34" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="3" w="-1" h="-1">
+          <text>Kollektion</text>
+        </override>
+        <override controlID="1" x="158" y="0" w="243" h="-1">
+          <align>right</align>
+          <text>Keine%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="78" controlTypeID="com.balsamiq.mockups::Component" x="637" y="710" w="401" h="34" measuredW="401" measuredH="34" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="3" w="-1" h="-1">
+          <text>Marke</text>
+        </override>
+        <override controlID="1" x="158" y="0" w="243" h="-1">
+          <align>right</align>
+          <text>Yomilch%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="80" controlTypeID="com.balsamiq.mockups::Component" x="637" y="319" w="401" h="34" measuredW="401" measuredH="34" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="3" w="-1" h="-1">
+          <text>Importdeklarat.</text>
+        </override>
+        <override controlID="1" x="158" y="0" w="243" h="-1">
+          <align>right</align>
+          <text>Keine%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
+        </override>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Button" x="1329" y="193" w="113" h="42" measuredW="113" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <href>Einkauf%20Neuer%20Artikel%20erfasst%26bm%3BEinkauf%20Neuer%20Artikel%20erfasst.bmml%26bm%3BEinkauf%20Neuer%20Artikel%20erfasst.bmml%26bm%3BEinkauf%20Neuer%20Artikel%20erfasst.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221250%2C156%2C1363%2C198%22%20href%3D%22Einkauf%2520Neuer%2520Artikel%2520erfasst.bmml%22%20alt%3D%22Einkauf%20Neuer%20Artikel%20erfasst%22%20id%3D%2281%22/%3E</map>
+        <menuIcon>false</menuIcon>
+        <size>20</size>
+        <text>Speichern</text>
+      </controlProperties>
+    </control>
+    <control controlID="82" controlTypeID="com.balsamiq.mockups::Image" x="1184" y="291" w="153" h="192" measuredW="153" measuredH="192" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>0%2C0%2C1000%2C995</crop>
+        <filter>true</filter>
+        <src>./assets/Image.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

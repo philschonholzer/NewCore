@@ -1,0 +1,17 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="947" measuredH="708" mockupW="797" mockupH="574">
+  <controls>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Title" x="150" y="134" w="-1" h="-1" measuredW="137" measuredH="43" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Einkauf</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="150" y="177" w="-1" h="-1" measuredW="797" measuredH="531" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Artikel%20anzeigen%26bm%3BArtikel%20anzeigen.bmml%26bm%3BArtikel%20anzeigen.bmml%26bm%3BArtikel%20anzeigen.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%220%2C43%2C797%2C574%22%20href%3D%22Artikel%2520anzeigen.bmml%22%20alt%3D%22Artikel%20anzeigen%22%20id%3D%223%22/%3E</map>
+        <src>./assets/Kim.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,183 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1506" measuredH="902" mockupW="1427" mockupH="865">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="79" y="37" w="1427" h="865" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Bison%0Ahttp%3A//bison</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Component" x="81" y="110" w="1422" h="52" measuredW="1422" measuredH="52" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221334%2C85%2C1394%2C113%22%20href%3D%22Apps.bmml%22%20alt%3D%22Apps%22%20id%3D%221%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22382%2C91%2C474%2C112%22%20href%3D%22Einkauf%2520Neuer%2520Artikel.bmml%22%20alt%3D%22Einkauf%20Neuer%20Artikel%22%20id%3D%225%22/%3E</map>
+        <override controlID="0" x="0" y="0" w="1422" h="52"/>
+        <override controlID="1" x="1332" y="12" w="60" h="28"/>
+        <override controlID="2" x="16" y="9" w="69" h="34"/>
+        <override controlID="3" x="100" y="15" w="148" h="27">
+          <text>Artikel</text>
+        </override>
+        <override controlID="4" x="289" y="18" w="70" h="21">
+          <text>Anzeigen</text>
+        </override>
+        <override controlID="5" x="380" y="18" w="92" h="21">
+          <href>Einkauf%20Neuer%20Artikel%26bm%3BEinkauf%20Neuer%20Artikel.bmml%26bm%3BEinkauf%20Neuer%20Artikel.bmml%26bm%3BEinkauf%20Neuer%20Artikel.bmml</href>
+          <text>Neu%20erfassen</text>
+        </override>
+        <override controlID="6" x="454" y="18" w="54" h="21">
+          <text>%20</text>
+        </override>
+        <override controlID="7" x="529" y="18" w="111" h="21">
+          <text>%20</text>
+        </override>
+        <override controlID="8" x="1211" y="16" w="87" h="24">
+          <text>Kim%20Kauf</text>
+        </override>
+        <override controlID="9" x="1154" y="10" w="-1" h="-1"/>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Header</src>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::SearchBox" x="1188" y="194" w="218" h="-1" measuredW="120" measuredH="40" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>28</size>
+        <text>Suche</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::SubTitle" x="177" y="201" w="-1" h="-1" measuredW="141" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Meine%20Artikel</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::SubTitle" x="654" y="201" w="-1" h="-1" measuredW="149" measuredH="27" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Letzte%20Artikel</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::TextArea" x="177" y="243" w="200" h="79" measuredW="200" measuredH="140" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>Emmentaler</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::TextArea" x="177" y="337" w="200" h="79" measuredW="200" measuredH="140" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>Sbrinz%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::TextArea" x="177" y="431" w="200" h="79" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>Gruyere</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::TextArea" x="177" y="525" w="200" h="79" measuredW="200" measuredH="140" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>Appenzeller</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::TextArea" x="177" y="619" w="200" h="79" measuredW="200" measuredH="140" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>St.%20Pauli</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::TextArea" x="177" y="713" w="200" h="79" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>H%FCttenk%E4se</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::TextArea" x="392" y="243" w="200" h="79" measuredW="200" measuredH="140" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>M%FChlibach</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::TextArea" x="392" y="337" w="200" h="79" measuredW="200" measuredH="140" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>Rassk%E4se</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::TextArea" x="392" y="431" w="200" h="79" measuredW="200" measuredH="140" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>Schabziger</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::TextArea" x="392" y="525" w="200" h="79" measuredW="200" measuredH="140" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>T%EAte%20de%20Moine</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::TextArea" x="392" y="619" w="200" h="79" measuredW="200" measuredH="140" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>Tilsiter</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::TextArea" x="654" y="243" w="200" h="79" measuredW="200" measuredH="140" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>Appenzeller</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::TextArea" x="654" y="337" w="200" h="79" measuredW="200" measuredH="140" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>T%EAte%20de%20Moine</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::TextArea" x="654" y="430" w="200" h="79" measuredW="200" measuredH="140" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>Rassk%E4se</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::TextArea" x="654" y="525" w="200" h="79" measuredW="200" measuredH="140" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>H%FCttenk%E4se</text>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::TextArea" x="654" y="619" w="200" h="79" measuredW="200" measuredH="140" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderColor>10066329</borderColor>
+        <color>15658734</color>
+        <size>20</size>
+        <text>M%FChlibach</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

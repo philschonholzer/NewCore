@@ -32,7 +32,6 @@
           <text>Kim%20Kauf</text>
         </override>
         <override controlID="9" x="1154" y="10" w="-1" h="-1"/>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Header</src>
       </controlProperties>
     </control>
@@ -138,6 +137,7 @@
           <align>right</align>
           <text>v</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -150,6 +150,7 @@
           <align>right</align>
           <text>v</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -162,6 +163,7 @@
           <align>right</align>
           <text>v</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -174,6 +176,7 @@
           <align>right</align>
           <text>v</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -186,6 +189,7 @@
           <align>right</align>
           <text>v</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -198,6 +202,7 @@
           <align>right</align>
           <text>v</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -210,6 +215,7 @@
           <align>right</align>
           <text>v</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -222,6 +228,7 @@
           <align>right</align>
           <text>v</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -234,14 +241,16 @@
           <align>right</align>
           <text>v</text>
         </override>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::Button" x="1329" y="193" w="113" h="42" measuredW="113" measuredH="28" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Button" x="1329" y="193" w="113" h="42" measuredW="104" measuredH="28" zOrder="22" locked="false" isInGroup="-1">
       <controlProperties>
+        <color>6710886</color>
         <menuIcon>false</menuIcon>
         <size>20</size>
-        <text>Speichern</text>
+        <text>Erfassen</text>
       </controlProperties>
     </control>
   </controls>

@@ -143,58 +143,17 @@
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::Button" x="1329" y="193" w="113" h="42" measuredW="113" measuredH="28" zOrder="11" locked="false" isInGroup="-1">
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Button" x="1329" y="193" w="113" h="42" measuredW="104" measuredH="28" zOrder="11" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <href>Dispo%20Dispodaten%20erfasst%26bm%3BDispo%20Dispodaten%20erfasst.bmml%26bm%3BDispo%20Dispodaten%20erfasst.bmml%26bm%3BDispo%20Dispodaten%20erfasst.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221250%2C156%2C1363%2C198%22%20href%3D%22Dispo%2520Dispodaten%2520erfasst.bmml%22%20alt%3D%22Dispo%20Dispodaten%20erfasst%22%20id%3D%2281%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>20</size>
-        <text>Speichern</text>
+        <text>Erfassen</text>
       </controlProperties>
     </control>
-    <control controlID="82" controlTypeID="com.balsamiq.mockups::Canvas" x="177" y="270" w="426" h="567" measuredW="100" measuredH="70" zOrder="12" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-        <color>15658734</color>
-      </controlProperties>
-    </control>
-    <control controlID="85" controlTypeID="com.balsamiq.mockups::List" x="188" y="452" w="185" h="385" measuredW="100" measuredH="471" zOrder="13" locked="false" isInGroup="-1">
-      <controlProperties>
-        <alternateRowColor>15658734</alternateRowColor>
-        <borderStyle>none</borderStyle>
-        <color>15658734</color>
-        <rowHeight>31</rowHeight>
-        <size>16</size>
-        <text>Bezeichnung%0AArt%0AWarengruppe%0A%20%0AHerkunftsland%0AImportdeklaration%0ASteuerklasse%0A%20%0AEink%E4ufergruppe%0ASortimentslistenart%0ABezugsquelle%0AServicevereinbarung%0A%20%0AKollektion%0AMarke</text>
-      </controlProperties>
-    </control>
-    <control controlID="86" controlTypeID="com.balsamiq.mockups::List" x="373" y="452" w="185" h="385" measuredW="100" measuredH="471" zOrder="14" locked="false" isInGroup="-1">
-      <controlProperties>
-        <alternateRowColor>15658734</alternateRowColor>
-        <bold>true</bold>
-        <borderStyle>none</borderStyle>
-        <color>15658734</color>
-        <rowHeight>31</rowHeight>
-        <size>16</size>
-        <text>Buttermilch%0AFrische%0AK%E4se%0A%20%0ASchweiz%0AKeine%0A-%0A%20%0AA%0AB%0A-%0AKeine%0A%20%0AKeine%0AYomilch</text>
-      </controlProperties>
-    </control>
-    <control controlID="87" controlTypeID="com.balsamiq.mockups::Image" x="325" y="306" w="96" h="120" measuredW="153" measuredH="191" zOrder="16" locked="false" isInGroup="-1">
-      <controlProperties>
-        <crop>0%2C0%2C1000%2C992</crop>
-        <filter>true</filter>
-        <src>./assets/Image.png</src>
-        <text/>
-      </controlProperties>
-    </control>
-    <control controlID="88" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="570" y="291" w="-1" h="521" measuredW="16" measuredH="100" zOrder="17" locked="false" isInGroup="-1"/>
-    <control controlID="89" controlTypeID="com.balsamiq.mockups::Canvas" x="198" y="291" w="351" h="150" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1">
-      <controlProperties>
-        <borderStyle>none</borderStyle>
-      </controlProperties>
-    </control>
-    <control controlID="90" controlTypeID="com.balsamiq.mockups::Component" x="637" y="759" w="401" h="34" measuredW="401" measuredH="34" zOrder="18" locked="false" isInGroup="-1">
+    <control controlID="90" controlTypeID="com.balsamiq.mockups::Component" x="637" y="759" w="401" h="34" measuredW="401" measuredH="34" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="3" w="-1" h="-1">
           <text>Ladegruppe%20</text>
@@ -207,7 +166,7 @@
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
-    <control controlID="91" controlTypeID="com.balsamiq.mockups::Component" x="1078" y="270" w="401" h="34" measuredW="401" measuredH="34" zOrder="19" locked="false" isInGroup="-1">
+    <control controlID="91" controlTypeID="com.balsamiq.mockups::Component" x="1078" y="270" w="401" h="34" measuredW="401" measuredH="34" zOrder="13" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="3" w="-1" h="-1">
           <text>G-Haltbarkeit</text>
@@ -220,7 +179,7 @@
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
-    <control controlID="92" controlTypeID="com.balsamiq.mockups::Component" x="1078" y="321" w="401" h="34" measuredW="401" measuredH="34" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="92" controlTypeID="com.balsamiq.mockups::Component" x="1078" y="321" w="401" h="34" measuredW="401" measuredH="34" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <override controlID="0" x="0" y="3" w="-1" h="-1">
           <text>Restlaufzeit</text>
@@ -231,6 +190,65 @@
         </override>
         <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
+      </controlProperties>
+    </control>
+    <control controlID="95" controlTypeID="com.balsamiq.mockups::Button" x="1167" y="193" w="131" h="42" measuredW="130" measuredH="28" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <menuIcon>true</menuIcon>
+        <size>20</size>
+        <text>Zuweisen</text>
+      </controlProperties>
+    </control>
+    <control controlID="96" controlTypeID="com.balsamiq.mockups::Canvas" x="177" y="270" w="426" h="567" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="97" controlTypeID="com.balsamiq.mockups::List" x="188" y="492" w="185" h="335" measuredW="100" measuredH="471" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>15658734</alternateRowColor>
+        <borderStyle>none</borderStyle>
+        <color>15658734</color>
+        <rowHeight>31</rowHeight>
+        <size>16</size>
+        <text>Bezeichnung%0AArt%0AWarengruppe%0A%20%0AHerkunftsland%0AImportdeklaration%0ASteuerklasse%0A%20%0AEink%E4ufergruppe%0ASortimentslistenart%0ABezugsquelle%0AServicevereinbarung%0A%20%0AKollektion%0AMarke</text>
+      </controlProperties>
+    </control>
+    <control controlID="98" controlTypeID="com.balsamiq.mockups::List" x="373" y="492" w="185" h="316" measuredW="100" measuredH="471" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <alternateRowColor>15658734</alternateRowColor>
+        <bold>true</bold>
+        <borderStyle>none</borderStyle>
+        <color>15658734</color>
+        <rowHeight>31</rowHeight>
+        <size>16</size>
+        <text>Buttermilch%0AFrische%0AK%E4se%0A%20%0ASchweiz%0AKeine%0A-%0A%20%0AA%0AB%0A-%0AKeine%0A%20%0AKeine%0AYomilch</text>
+      </controlProperties>
+    </control>
+    <control controlID="99" controlTypeID="com.balsamiq.mockups::Canvas" x="198" y="331" w="351" h="150" measuredW="100" measuredH="70" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="100" controlTypeID="com.balsamiq.mockups::Image" x="325" y="346" w="96" h="120" measuredW="153" measuredH="191" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <crop>0%2C0%2C1000%2C992</crop>
+        <filter>true</filter>
+        <src>./assets/Image.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="101" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="570" y="291" w="-1" h="521" measuredW="16" measuredH="100" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="102" controlTypeID="com.balsamiq.mockups::Label" x="373" y="295" w="-1" h="-1" measuredW="116" measuredH="19" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>11</size>
+        <text>Erfasst%20durch%20%5BKim%20Kauf%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="103" controlTypeID="com.balsamiq.mockups::SubTitle" x="198" y="291" w="-1" h="-1" measuredW="157" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Einkaufsdaten</text>
       </controlProperties>
     </control>
   </controls>

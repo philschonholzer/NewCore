@@ -32,6 +32,7 @@
           <text>Kim%20Kauf</text>
         </override>
         <override controlID="9" x="1154" y="10" w="-1" h="-1"/>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Header</src>
       </controlProperties>
     </control>
@@ -157,7 +158,6 @@
           <align>right</align>
           <text>Schweiz%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -170,7 +170,6 @@
           <align>right</align>
           <text>v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -183,7 +182,6 @@
           <align>right</align>
           <text>A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -196,7 +194,6 @@
           <align>right</align>
           <text>B%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -209,7 +206,6 @@
           <align>right</align>
           <text>v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -222,7 +218,6 @@
           <align>right</align>
           <text>Keine%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -235,7 +230,6 @@
           <align>right</align>
           <text>Keine%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -248,7 +242,6 @@
           <align>right</align>
           <text>Yomilch%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -261,18 +254,17 @@
           <align>right</align>
           <text>Keine%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::Button" x="1329" y="193" w="113" h="42" measuredW="113" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Button" x="1329" y="193" w="113" h="42" measuredW="104" measuredH="28" zOrder="25" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
         <href>Einkauf%20Neuer%20Artikel%20erfasst%26bm%3BEinkauf%20Neuer%20Artikel%20erfasst.bmml%26bm%3BEinkauf%20Neuer%20Artikel%20erfasst.bmml%26bm%3BEinkauf%20Neuer%20Artikel%20erfasst.bmml</href>
         <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221250%2C156%2C1363%2C198%22%20href%3D%22Einkauf%2520Neuer%2520Artikel%2520erfasst.bmml%22%20alt%3D%22Einkauf%20Neuer%20Artikel%20erfasst%22%20id%3D%2281%22/%3E</map>
         <menuIcon>false</menuIcon>
         <size>20</size>
-        <text>Speichern</text>
+        <text>Erfassen</text>
       </controlProperties>
     </control>
     <control controlID="82" controlTypeID="com.balsamiq.mockups::Image" x="1184" y="291" w="153" h="192" measuredW="153" measuredH="192" zOrder="26" locked="false" isInGroup="-1">

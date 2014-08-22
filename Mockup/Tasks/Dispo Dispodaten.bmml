@@ -31,6 +31,7 @@
           <text>Kim%20Kauf</text>
         </override>
         <override controlID="9" x="1154" y="10" w="-1" h="-1"/>
+        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Header</src>
       </controlProperties>
     </control>
@@ -50,7 +51,6 @@
           <align>right</align>
           <text>v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -63,7 +63,6 @@
           <align>right</align>
           <text>v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -76,7 +75,6 @@
           <align>right</align>
           <text>v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -89,7 +87,6 @@
           <align>right</align>
           <text>v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -102,7 +99,6 @@
           <align>right</align>
           <text>v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -115,7 +111,6 @@
           <align>right</align>
           <text>v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -128,7 +123,6 @@
           <align>right</align>
           <text>v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -141,7 +135,6 @@
           <align>right</align>
           <text>v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -154,16 +147,14 @@
           <align>right</align>
           <text>v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
-    <control controlID="81" controlTypeID="com.balsamiq.mockups::Button" x="1329" y="193" w="113" h="42" measuredW="104" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="81" controlTypeID="com.balsamiq.mockups::Button" x="1329" y="193" w="113" h="42" measuredW="113" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>6710886</color>
         <menuIcon>false</menuIcon>
         <size>20</size>
-        <text>Erfassen</text>
+        <text>Speichern</text>
       </controlProperties>
     </control>
     <control controlID="82" controlTypeID="com.balsamiq.mockups::Canvas" x="177" y="270" w="426" h="567" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="-1">
@@ -172,7 +163,7 @@
         <color>15658734</color>
       </controlProperties>
     </control>
-    <control controlID="85" controlTypeID="com.balsamiq.mockups::List" x="188" y="492" w="185" h="335" measuredW="100" measuredH="471" zOrder="14" locked="false" isInGroup="-1">
+    <control controlID="85" controlTypeID="com.balsamiq.mockups::List" x="188" y="452" w="185" h="385" measuredW="100" measuredH="471" zOrder="14" locked="false" isInGroup="-1">
       <controlProperties>
         <alternateRowColor>15658734</alternateRowColor>
         <borderStyle>none</borderStyle>
@@ -182,7 +173,7 @@
         <text>Bezeichnung%0AArt%0AWarengruppe%0A%20%0AHerkunftsland%0AImportdeklaration%0ASteuerklasse%0A%20%0AEink%E4ufergruppe%0ASortimentslistenart%0ABezugsquelle%0AServicevereinbarung%0A%20%0AKollektion%0AMarke</text>
       </controlProperties>
     </control>
-    <control controlID="86" controlTypeID="com.balsamiq.mockups::List" x="373" y="492" w="185" h="316" measuredW="100" measuredH="471" zOrder="15" locked="false" isInGroup="-1">
+    <control controlID="86" controlTypeID="com.balsamiq.mockups::List" x="373" y="452" w="185" h="385" measuredW="100" measuredH="471" zOrder="15" locked="false" isInGroup="-1">
       <controlProperties>
         <alternateRowColor>15658734</alternateRowColor>
         <bold>true</bold>
@@ -193,7 +184,7 @@
         <text>Buttermilch%0AFrische%0AK%E4se%0A%20%0ASchweiz%0AKeine%0A-%0A%20%0AA%0AB%0A-%0AKeine%0A%20%0AKeine%0AYomilch</text>
       </controlProperties>
     </control>
-    <control controlID="87" controlTypeID="com.balsamiq.mockups::Image" x="325" y="346" w="96" h="120" measuredW="153" measuredH="191" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="87" controlTypeID="com.balsamiq.mockups::Image" x="325" y="306" w="96" h="120" measuredW="153" measuredH="191" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
         <crop>0%2C0%2C1000%2C992</crop>
         <filter>true</filter>
@@ -202,7 +193,7 @@
       </controlProperties>
     </control>
     <control controlID="88" controlTypeID="com.balsamiq.mockups::VerticalScrollBar" x="570" y="291" w="-1" h="521" measuredW="16" measuredH="100" zOrder="18" locked="false" isInGroup="-1"/>
-    <control controlID="89" controlTypeID="com.balsamiq.mockups::Canvas" x="198" y="331" w="351" h="150" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1">
+    <control controlID="89" controlTypeID="com.balsamiq.mockups::Canvas" x="198" y="291" w="351" h="150" measuredW="100" measuredH="70" zOrder="16" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>none</borderStyle>
       </controlProperties>
@@ -216,7 +207,6 @@
           <align>right</align>
           <text>v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -229,7 +219,6 @@
           <align>right</align>
           <text>v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
       </controlProperties>
     </control>
@@ -242,26 +231,7 @@
           <align>right</align>
           <text>v</text>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Attribute</src>
-      </controlProperties>
-    </control>
-    <control controlID="95" controlTypeID="com.balsamiq.mockups::Label" x="373" y="295" w="-1" h="-1" measuredW="116" measuredH="19" zOrder="22" locked="false" isInGroup="-1">
-      <controlProperties>
-        <size>11</size>
-        <text>Erfasst%20durch%20%5BKim%20Kauf%5D</text>
-      </controlProperties>
-    </control>
-    <control controlID="96" controlTypeID="com.balsamiq.mockups::SubTitle" x="198" y="291" w="-1" h="-1" measuredW="157" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>Einkaufsdaten</text>
-      </controlProperties>
-    </control>
-    <control controlID="97" controlTypeID="com.balsamiq.mockups::Button" x="1167" y="193" w="131" h="42" measuredW="130" measuredH="28" zOrder="24" locked="false" isInGroup="-1">
-      <controlProperties>
-        <menuIcon>true</menuIcon>
-        <size>20</size>
-        <text>Zuweisen</text>
       </controlProperties>
     </control>
   </controls>

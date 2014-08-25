@@ -1,0 +1,31 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1631" measuredH="921" mockupW="1566" mockupH="898">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="65" y="23" w="1566" h="898" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>M%F6bel%20POS%0Ahttp%3A//bison/pos</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::SearchBox" x="131" y="172" w="371" h="-1" measuredW="134" measuredH="44" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Results%26bm%3BResults.bmml%26bm%3BResults.bmml%26bm%3BResults.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2266%2C149%2C437%2C193%22%20href%3D%22Results.bmml%22%20alt%3D%22Results%22%20id%3D%221%22/%3E</map>
+        <size>32</size>
+        <text>Auftrag</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Component" x="69" y="97" w="1562" h="52" measuredW="1562" measuredH="52" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="1">
+          <text>Apps</text>
+        </override>
+        <override controlID="4">
+          <color>13421772</color>
+        </override>
+        <override controlID="6">
+          <color>16777215</color>
+        </override>
+        <src>./assets/symbols.bmml#Header</src>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -17,10 +17,10 @@
         <color>13421772</color>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="1249" y="135" w="-1" h="-1" measuredW="217" measuredH="43" zOrder="3" locked="true" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="1249" y="135" w="-1" h="-1" measuredW="194" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <color>13421772</color>
-        <text>Wunschliste</text>
+        <text>Warenkorb</text>
       </controlProperties>
     </control>
     <control controlID="4" controlTypeID="com.balsamiq.mockups::IconLabel" x="513" y="145" w="-1" h="-1" measuredW="24" measuredH="39" zOrder="5" locked="true" isInGroup="-1">
@@ -343,11 +343,11 @@
         <text>%20%7Bcolor%3Ablack%7DNicht%20mehr%20im%20Sortiment%7Bcolor%7D</text>
       </controlProperties>
     </control>
-    <control controlID="112" controlTypeID="com.balsamiq.mockups::Icon" x="995" y="241" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="40" locked="false" isInGroup="-1">
+    <control controlID="112" controlTypeID="com.balsamiq.mockups::Icon" x="996" y="245" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="40" locked="false" isInGroup="-1">
       <controlProperties>
         <href>Details%26bm%3BDetails.bmml%26bm%3BDetails.bmml%26bm%3BDetails.bmml</href>
         <icon>XIcon%7Csmall</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22930%2C212%2C954%2C236%22%20href%3D%22Details.bmml%22%20alt%3D%22Details%22%20id%3D%22112%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22931%2C216%2C955%2C240%22%20href%3D%22Details.bmml%22%20alt%3D%22Details%22%20id%3D%22112%22/%3E</map>
       </controlProperties>
     </control>
     <control controlID="113" controlTypeID="__group__" x="826" y="515" w="276" h="121" measuredW="276" measuredH="121" zOrder="41" locked="false" isInGroup="-1">

@@ -30,11 +30,19 @@
         <src>./assets/symbols.bmml#Header</src>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="1003" y="181" w="-1" h="-1" measuredW="172" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Button" x="1003" y="181" w="-1" h="-1" measuredW="173" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
-        <href>Onlinebestellung%26bm%3BOnlinebestellung.bmml%26bm%3BOnlinebestellung.bmml%26bm%3BOnlinebestellung.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22938%2C158%2C1110%2C185%22%20href%3D%22Onlinebestellung.bmml%22%20alt%3D%22Onlinebestellung%22%20id%3D%2219%22/%3E</map>
-        <text>Online%20Bestellung%20suchen</text>
+        <href>Startseite%26bm%3BStartseite.bmml%26bm%3BStartseite.bmml%26bm%3BStartseite.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22938%2C158%2C1111%2C185%22%20href%3D%22Startseite.bmml%22%20alt%3D%22Startseite%22%20id%3D%2219%22/%3E</map>
+        <text>Online-Bestellung%20suchen</text>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Canvas" x="780" y="216" w="395" h="91" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="25" controlTypeID="com.balsamiq.mockups::SearchBox" x="808" y="249" w="337" h="-1" measuredW="164" measuredH="25" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Onlinebestellung%20Suche%26bm%3BOnlinebestellung%20Suche.bmml%26bm%3BOnlinebestellung%20Suche.bmml%26bm%3BOnlinebestellung%20Suche.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22743%2C226%2C1080%2C251%22%20href%3D%22Onlinebestellung%2520Suche.bmml%22%20alt%3D%22Onlinebestellung%20Suche%22%20id%3D%2225%22/%3E</map>
+        <text>Bestellnummer%20/%20Kunde</text>
       </controlProperties>
     </control>
   </controls>

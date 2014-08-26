@@ -105,7 +105,6 @@
         <override controlID="4" x="430" y="151" w="46" h="18">
           <icon>IBeamIcon%7Cxsmall</icon>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#SearchResult</src>
       </controlProperties>
     </control>
@@ -125,7 +124,6 @@
         <override controlID="4" x="430" y="151" w="46" h="18">
           <icon>IBeamIcon%7Cxsmall</icon>
         </override>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#SearchResult</src>
       </controlProperties>
     </control>
@@ -182,10 +180,21 @@
         <text>Online%20Bestellung%20suchen</text>
       </controlProperties>
     </control>
-    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="1249" y="216" w="-1" h="-1" measuredW="173" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="1249" y="216" w="-1" h="-1" measuredW="102" measuredH="21" zOrder="17" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221285.9453125%2C192%2C1356.54931640625%2C205%22%20href%3D%22Ab%2520Block.bmml%22%20alt%3D%22488389388%22%20id%3D%2254%22/%3E</map>
-        <text>Auftragsnummer%20%5B488389388%5D%28Ab%20Block%29</text>
+        <text>Auftragsnummer%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::TextInput" x="1358" y="213" w="-1" h="-1" measuredW="85" measuredH="27" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>488389388</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Button" x="1452" y="213" w="-1" h="-1" measuredW="81" measuredH="27" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Results%26bm%3BResults.bmml%26bm%3BResults.bmml%26bm%3BResults.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%221387%2C184%2C1468%2C211%22%20href%3D%22Results.bmml%22%20alt%3D%22Results%22%20id%3D%2256%22/%3E</map>
+        <text>Speichern</text>
       </controlProperties>
     </control>
   </controls>

@@ -19,7 +19,7 @@
     </control>
     <control controlID="17" controlTypeID="com.balsamiq.mockups::Component" x="69" y="97" w="1562" h="52" measuredW="1562" measuredH="52" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22321%2C92%2C398%2C113%22%20href%3D%22Startseite.bmml%22%20alt%3D%22Startseite%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22421%2C92%2C479%2C113%22%20href%3D%22Angebote.bmml%22%20alt%3D%22Angebote%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22503%2C92%2C562%2C113%22%20href%3D%22%25C3%2584nderungen.bmml%22%20alt%3D%22%C4nderungen%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22585%2C92%2C707%2C113%22%20href%3D%22Wiederholungsdruck.bmml%22%20alt%3D%22Wiederholungsdruck%22%20id%3D%227%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22321%2C92%2C398%2C113%22%20href%3D%22Startseite.bmml%22%20alt%3D%22Startseite%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22421%2C92%2C479%2C113%22%20href%3D%22Angebote.bmml%22%20alt%3D%22Angebote%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22503%2C92%2C562%2C113%22%20href%3D%22%25C3%2584nderungen.bmml%22%20alt%3D%22%C4nderungen%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22585%2C92%2C707%2C113%22%20href%3D%22Wiederholungsdruck.bmml%22%20alt%3D%22Wiederholungsdruck%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22326%2C95%2C403%2C116%22%20href%3D%22Startseite.bmml%22%20alt%3D%22Startseite%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22426%2C95%2C484%2C116%22%20href%3D%22Angebote.bmml%22%20alt%3D%22Angebote%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22508%2C95%2C567%2C116%22%20href%3D%22%25C3%2584nderungen.bmml%22%20alt%3D%22%C4nderungen%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22590%2C95%2C712%2C116%22%20href%3D%22Wiederholungsdruck.bmml%22%20alt%3D%22Wiederholungsdruck%22%20id%3D%227%22/%3E</map>
         <src>./assets/symbols.bmml#Header</src>
       </controlProperties>
     </control>
@@ -50,9 +50,16 @@
     <control controlID="76" controlTypeID="com.balsamiq.mockups::Icon" x="87" y="168" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
-        <href>Plus%26bm%3BPlus.bmml%26bm%3BPlus.bmml%26bm%3BPlus.bmml</href>
+        <href>Neue%20Kauferfassung%26bm%3BNeue%20Kauferfassung.bmml%26bm%3BNeue%20Kauferfassung.bmml%26bm%3BNeue%20Kauferfassung.bmml</href>
         <icon>PlusIcon%7Cmedium</icon>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C145%2C54%2C177%22%20href%3D%22Plus.bmml%22%20alt%3D%22Plus%22%20id%3D%2276%22/%3E</map>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C145%2C54%2C177%22%20href%3D%22Neue%2520Kauferfassung.bmml%22%20alt%3D%22Neue%20Kauferfassung%22%20id%3D%2276%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::List" x="87" y="204" w="273" h="89" measuredW="100" measuredH="126" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <rowHeight>39</rowHeight>
+        <size>20</size>
+        <text>%20Online%20Reservation%20suchen%0A%20Code%20scannen</text>
       </controlProperties>
     </control>
   </controls>

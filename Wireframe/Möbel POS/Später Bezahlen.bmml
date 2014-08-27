@@ -503,9 +503,40 @@
     <control controlID="169" controlTypeID="com.balsamiq.mockups::Button" x="347" y="836" w="79" h="27" measuredW="64" measuredH="27" zOrder="75" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
-        <href>Sp%E4ter%20Bezahlen%26bm%3BSp%E4ter%20Bezahlen.bmml%26bm%3BSp%E4ter%20Bezahlen.bmml%26bm%3BSp%E4ter%20Bezahlen.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22282%2C813%2C361%2C840%22%20href%3D%22Sp%25C3%25A4ter%2520Bezahlen.bmml%22%20alt%3D%22Sp%E4ter%20Bezahlen%22%20id%3D%22169%22/%3E</map>
         <text>Sp%E4ter</text>
+      </controlProperties>
+    </control>
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::Canvas" x="347" y="628" w="499" h="207" measuredW="100" measuredH="70" zOrder="76" locked="false" isInGroup="-1"/>
+    <control controlID="171" controlTypeID="com.balsamiq.mockups::Label" x="389" y="674" w="-1" h="-1" measuredW="109" measuredH="21" zOrder="77" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Anzahlungsbetrag</text>
+      </controlProperties>
+    </control>
+    <control controlID="172" controlTypeID="com.balsamiq.mockups::TextInput" x="539" y="668" w="261" h="-1" measuredW="195" measuredH="38" zOrder="78" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <size>24</size>
+        <text>910.-%20-CHF%20%2850%25%29-</text>
+      </controlProperties>
+    </control>
+    <control controlID="173" controlTypeID="com.balsamiq.mockups::Label" x="389" y="725" w="-1" h="-1" measuredW="125" measuredH="21" zOrder="79" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Anzahlungszeitpunkt</text>
+      </controlProperties>
+    </control>
+    <control controlID="174" controlTypeID="com.balsamiq.mockups::ComboBox" x="539" y="720" w="261" h="-1" measuredW="223" measuredH="35" zOrder="80" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>24</size>
+        <text>Heute%2C%2014.07.2015</text>
+      </controlProperties>
+    </control>
+    <control controlID="175" controlTypeID="com.balsamiq.mockups::Button" x="690" y="777" w="113" h="34" measuredW="113" measuredH="28" zOrder="81" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <href>Drucken%26bm%3BDrucken.bmml%26bm%3BDrucken.bmml%26bm%3BDrucken.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22625%2C754%2C738%2C788%22%20href%3D%22Drucken.bmml%22%20alt%3D%22Drucken%22%20id%3D%22175%22/%3E</map>
+        <size>20</size>
+        <text>Speichern</text>
       </controlProperties>
     </control>
   </controls>

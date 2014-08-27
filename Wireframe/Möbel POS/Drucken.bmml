@@ -445,10 +445,10 @@
             <text>M%F6nchengladbach</text>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="289" y="10" w="-1" h="-1" measuredW="48" measuredH="48" zOrder="3" locked="false" isInGroup="164">
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="305" y="18" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="3" locked="false" isInGroup="164">
           <controlProperties>
             <color>40463</color>
-            <icon>CheckMarkIcon%7Clarge</icon>
+            <icon>CheckMarkIcon%7Cmedium</icon>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
@@ -494,18 +494,17 @@
         <text>Zus%E4tzliche%20Anschrift</text>
       </controlProperties>
     </control>
-    <control controlID="168" controlTypeID="com.balsamiq.mockups::Button" x="271" y="836" w="67" h="27" measuredW="54" measuredH="27" zOrder="74" locked="false" isInGroup="-1">
+    <control controlID="169" controlTypeID="com.balsamiq.mockups::Button" x="271" y="836" w="79" h="27" measuredW="71" measuredH="27" zOrder="74" locked="false" isInGroup="-1">
       <controlProperties>
         <color>2848996</color>
-        <text>Jetzt</text>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22206%2C813%2C285%2C840%22%20href%3D%22Sp%25C3%25A4ter%2520Bezahlen.bmml%22%20alt%3D%22Sp%E4ter%20Bezahlen%22%20id%3D%22169%22/%3E</map>
+        <text>Drucken</text>
       </controlProperties>
     </control>
-    <control controlID="169" controlTypeID="com.balsamiq.mockups::Button" x="347" y="836" w="79" h="27" measuredW="64" measuredH="27" zOrder="75" locked="false" isInGroup="-1">
+    <control controlID="170" controlTypeID="com.balsamiq.mockups::Icon" x="389" y="833" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="75" locked="false" isInGroup="-1">
       <controlProperties>
-        <color>2848996</color>
-        <href>Sp%E4ter%20Bezahlen%26bm%3BSp%E4ter%20Bezahlen.bmml%26bm%3BSp%E4ter%20Bezahlen.bmml%26bm%3BSp%E4ter%20Bezahlen.bmml</href>
-        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22282%2C813%2C361%2C840%22%20href%3D%22Sp%25C3%25A4ter%2520Bezahlen.bmml%22%20alt%3D%22Sp%E4ter%20Bezahlen%22%20id%3D%22169%22/%3E</map>
-        <text>Sp%E4ter</text>
+        <color>40463</color>
+        <icon>CheckMarkIcon%7Cmedium</icon>
       </controlProperties>
     </control>
   </controls>

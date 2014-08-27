@@ -25,12 +25,12 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="1" controlTypeID="__group__" x="66" y="383" w="352" h="87" measuredW="352" measuredH="87" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="__group__" x="66" y="383" w="321" h="87" measuredW="321" measuredH="87" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <controlName>ListItem</controlName>
       </controlProperties>
       <groupChildrenDescriptors>
-        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="352" h="87" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1"/>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="321" h="87" measuredW="100" measuredH="70" zOrder="0" locked="false" isInGroup="1"/>
         <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="15" y="16" w="72" h="56" measuredW="253" measuredH="199" zOrder="1" locked="false" isInGroup="1">
           <controlProperties>
             <src>./assets/Delux.jpg</src>
@@ -43,8 +43,9 @@
             <text>Tiefschlaf%20Duo%20Delux</text>
           </controlProperties>
         </control>
-        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="268" y="51" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="3" locked="false" isInGroup="1">
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="248" y="51" w="-1" h="-1" measuredW="60" measuredH="21" zOrder="3" locked="false" isInGroup="1">
           <controlProperties>
+            <align>right</align>
             <text>780.-%20CHF</text>
           </controlProperties>
         </control>

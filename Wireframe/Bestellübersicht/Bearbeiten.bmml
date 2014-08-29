@@ -1,0 +1,99 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1560" measuredH="905" mockupW="1500" mockupH="885">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="60" y="20" w="1500" h="885" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Meine%20Bestellungen%0Ahttp%3A//bison/orderoverview%0ABla</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="112" y="171" w="-1" h="-1" measuredW="283" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Meine%20Anschrift</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Component" x="60" y="94" w="1496" h="52" measuredW="1496" measuredH="52" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22317%2C92%2C433%2C113%22%20href%3D%22Bestell%25C3%25BCbersicht.bmml%22%20alt%3D%22Bestell%FCbersicht%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22499%2C92%2C591%2C113%22%20href%3D%22Anschrift.bmml%22%20alt%3D%22Anschrift%22%20id%3D%226%22/%3E</map>
+        <override controlID="4">
+          <color>13421772</color>
+        </override>
+        <override controlID="6">
+          <color>16777215</color>
+        </override>
+        <src>./assets/symbols.bmml#Header</src>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Paragraph" x="112" y="248" w="210" h="431" measuredW="275" measuredH="80" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <size>20</size>
+        <text>Name%0A%20%0AStrasse%20%26%20Nummer%0A%20%0APLZ%20/%20Ort%0A%20%0ALand%0A%20%0A%20%0ATelefon%20%0A%20%0AFax%20%0A%20%0AEmail</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Paragraph" x="337" y="248" w="309" h="395" measuredW="275" measuredH="80" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Muster%20AG%0A%20%0AIndustriestrasse%204%0A%20%0A6210%20Sursee%0A%20%0ASchweiz%0A%20%0A%20%0A+41%20580%2055%2055%20%0A%20%0A+41%20580%2055%2056%20%0A%20%0Ainfo@musterag.ch</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Button" x="337" y="643" w="122" h="36" measuredW="113" measuredH="28" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>2848996</color>
+        <href>Anschrift%26bm%3BAnschrift.bmml%26bm%3BAnschrift.bmml%26bm%3BAnschrift.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22277%2C623%2C399%2C659%22%20href%3D%22Anschrift.bmml%22%20alt%3D%22Anschrift%22%20id%3D%2210%22/%3E</map>
+        <size>20</size>
+        <text>Speichern</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="200" y="643" w="122" h="36" measuredW="119" measuredH="28" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <size>20</size>
+        <text>Abbrechen</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::TextInput" x="337" y="241" w="-1" h="-1" measuredW="112" measuredH="34" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Muster%20AG</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::TextInput" x="337" y="289" w="-1" h="-1" measuredW="183" measuredH="34" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Industriestrasse%204</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::TextInput" x="337" y="337" w="-1" h="-1" measuredW="130" measuredH="34" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>6210%20Sursee</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::TextInput" x="337" y="386" w="-1" h="-1" measuredW="89" measuredH="34" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Schweiz</text>
+      </controlProperties>
+    </control>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::TextInput" x="337" y="457" w="-1" h="-1" measuredW="153" measuredH="34" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>+41%20580%2055%2055%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::TextInput" x="337" y="505" w="-1" h="-1" measuredW="154" measuredH="34" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>+41%20580%2055%2056%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="337" y="553" w="-1" h="-1" measuredW="172" measuredH="34" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>info@musterag.ch</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

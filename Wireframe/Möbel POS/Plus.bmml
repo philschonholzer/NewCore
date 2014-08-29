@@ -1,0 +1,66 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1631" measuredH="921" mockupW="1566" mockupH="898">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="65" y="23" w="1566" h="898" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>M%F6bel%20POS%0Ahttp%3A//bison/pos</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::VRule" x="454" y="161" w="-1" h="721" measuredW="10" measuredH="100" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Title" x="87" y="227" w="-1" h="-1" measuredW="184" measuredH="16" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <size>13</size>
+        <text>Kaufvertagsnummer%20%5B12000001%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Component" x="69" y="97" w="1562" h="52" measuredW="1562" measuredH="52" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22321%2C92%2C398%2C113%22%20href%3D%22Startseite.bmml%22%20alt%3D%22Startseite%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22421%2C92%2C479%2C113%22%20href%3D%22Angebote.bmml%22%20alt%3D%22Angebote%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22503%2C92%2C562%2C113%22%20href%3D%22%25C3%2584nderungen.bmml%22%20alt%3D%22%C4nderungen%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22585%2C92%2C707%2C113%22%20href%3D%22Wiederholungsdruck.bmml%22%20alt%3D%22Wiederholungsdruck%22%20id%3D%227%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22326%2C95%2C403%2C116%22%20href%3D%22Startseite.bmml%22%20alt%3D%22Startseite%22%20id%3D%224%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22426%2C95%2C484%2C116%22%20href%3D%22Angebote.bmml%22%20alt%3D%22Angebote%22%20id%3D%225%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22508%2C95%2C567%2C116%22%20href%3D%22%25C3%2584nderungen.bmml%22%20alt%3D%22%C4nderungen%22%20id%3D%226%22/%3E%3Carea%20shape%3D%22rect%22%20coords%3D%22590%2C95%2C712%2C116%22%20href%3D%22Wiederholungsdruck.bmml%22%20alt%3D%22Wiederholungsdruck%22%20id%3D%227%22/%3E</map>
+        <src>./assets/symbols.bmml#Header</src>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::IconLabel" x="87" y="787" w="-1" h="-1" measuredW="56" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>6710886</color>
+        <icon>CircledPlusIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Kunde</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::IconLabel" x="87" y="836" w="-1" h="-1" measuredW="68" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+        <icon>CircledPlusIcon%7Cxsmall</icon>
+        <labelPosition>right</labelPosition>
+        <text>Zahlung</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::SearchBox" x="136" y="164" w="302" h="-1" measuredW="120" measuredH="40" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>Artikel%20suche%26bm%3BArtikel%20suche.bmml%26bm%3BArtikel%20suche.bmml%26bm%3BArtikel%20suche.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2271%2C141%2C373%2C181%22%20href%3D%22Artikel%2520suche.bmml%22%20alt%3D%22Artikel%20suche%22%20id%3D%2275%22/%3E</map>
+        <size>28</size>
+        <text>Artikel</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Icon" x="87" y="168" w="-1" h="-1" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <href>Neue%20Kauferfassung%26bm%3BNeue%20Kauferfassung.bmml%26bm%3BNeue%20Kauferfassung.bmml%26bm%3BNeue%20Kauferfassung.bmml</href>
+        <icon>PlusIcon%7Cmedium</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2222%2C145%2C54%2C177%22%20href%3D%22Neue%2520Kauferfassung.bmml%22%20alt%3D%22Neue%20Kauferfassung%22%20id%3D%2276%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::List" x="87" y="204" w="273" h="89" measuredW="100" measuredH="126" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <rowHeight>39</rowHeight>
+        <size>20</size>
+        <text>%20Online%20Reservation%20suchen%0A%20Code%20scannen</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

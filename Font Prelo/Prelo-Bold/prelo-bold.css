@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'PreloBold';
+    src: url('prelo-bold.eot');
+    src: url('prelo-bold.eot') format('embedded-opentype'),
+         url('prelo-bold.woff2') format('woff2'),
+         url('prelo-bold.woff') format('woff'),
+         url('prelo-bold.ttf') format('truetype'),
+         url('prelo-bold.svg#PreloBold') format('svg');
+}

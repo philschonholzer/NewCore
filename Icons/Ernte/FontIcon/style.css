@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Bison';
-	src:url('fonts/Bison.eot?y9l0dz');
-	src:url('fonts/Bison.eot?#iefixy9l0dz') format('embedded-opentype'),
-		url('fonts/Bison.woff?y9l0dz') format('woff'),
-		url('fonts/Bison.ttf?y9l0dz') format('truetype'),
-		url('fonts/Bison.svg?y9l0dz#Bison') format('svg');
+	src:url('fonts/Bison.eot?-lnoeex');
+	src:url('fonts/Bison.eot?#iefix-lnoeex') format('embedded-opentype'),
+		url('fonts/Bison.woff?-lnoeex') format('woff'),
+		url('fonts/Bison.ttf?-lnoeex') format('truetype'),
+		url('fonts/Bison.svg?-lnoeex#Bison') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -23,21 +23,39 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.icon-Day:before {
+	content: "\1f4c6";
+}
+
+.icon-Week:before {
+	content: "\1f4c5";
+}
+
 .icon-Sum:before {
 	content: "\2211";
 }
+
 .icon-Save:before {
 	content: "\2356";
 }
+
 .icon-Sort:before {
 	content: "\2195";
 }
+
 .icon-Mail:before {
 	content: "\2709";
 }
+
 .icon-Menu:before {
 	content: "\2261";
 }
+
 .icon-Back:before {
 	content: "\21e6";
 }
+
+.icon-close:before {
+	content: "\e600";
+}
+

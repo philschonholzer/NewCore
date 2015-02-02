@@ -1,7 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="24" height="24" viewBox="0 0 24.00 24.00" enable-background="new 0 0 24.00 24.00" xml:space="preserve">
-	<g>
-		<path fill="#A68759" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 3.16649,10.18L 20.8335,10.18L 20.8335,13.93L 3.16649,13.93L 3.16649,10.18 Z M 3.16649,17.3468L 20.8335,17.3468L 20.8335,21.0968L 3.16649,21.0968L 3.16649,17.3468 Z M 20.8335,2.92983L 20.8335,6.6799L 3.16649,6.6799L 3.16649,2.92983L 20.8335,2.92983 Z "/>
-	</g>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="19" height="19" viewBox="0 0 19.00 19.00" enable-background="new 0 0 19.00 19.00" xml:space="preserve">
+	<path fill="#A68759" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M -8.68903e-006,7.03125L 19,7.03125L 19,11.0279L -8.68903e-006,11.0279L -8.68903e-006,7.03125 Z M -8.68903e-006,13.9688L 19,13.9688L 19,18.0104L -8.68903e-006,18.0104L -8.68903e-006,13.9688 Z M 19,9.53674e-006L 19,4.03125L -8.68903e-006,4.03125L -8.68903e-006,9.53674e-006L 19,9.53674e-006 Z "/>
 </svg>

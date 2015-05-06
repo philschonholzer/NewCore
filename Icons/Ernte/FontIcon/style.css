@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'Bison';
-	src:url('fonts/Bison.eot?-lnoeex');
-	src:url('fonts/Bison.eot?#iefix-lnoeex') format('embedded-opentype'),
-		url('fonts/Bison.woff?-lnoeex') format('woff'),
-		url('fonts/Bison.ttf?-lnoeex') format('truetype'),
-		url('fonts/Bison.svg?-lnoeex#Bison') format('svg');
+	src:url('fonts/Bison.eot?yp8jan');
+	src:url('fonts/Bison.eot?#iefixyp8jan') format('embedded-opentype'),
+		url('fonts/Bison.woff?yp8jan') format('woff'),
+		url('fonts/Bison.ttf?yp8jan') format('truetype'),
+		url('fonts/Bison.svg?yp8jan#Bison') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -17,10 +17,47 @@
 	font-variant: normal;
 	text-transform: none;
 	line-height: 1;
+	
+	/* Enable Ligatures ================ */
+	letter-spacing: 0;
+	-webkit-font-feature-settings: "liga";
+	-moz-font-feature-settings: "liga=1";
+	-moz-font-feature-settings: "liga";
+	-ms-font-feature-settings: "liga" 1;
+	-o-font-feature-settings: "liga";
+	font-feature-settings: "liga";
 
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Leftrightarrow:before {
+	content: "\21c4";
+}
+
+.icon-Back:before {
+	content: "\21e6";
+}
+
+.icon-Save:before {
+	content: "\2356";
+}
+
+.icon-Menu:before {
+	content: "\2261";
+}
+
+.icon-Mail:before {
+	content: "\2709";
+}
+
+.icon-Sort:before {
+	content: "\2195";
+}
+
+.icon-Sum:before {
+	content: "\2211";
 }
 
 .icon-Day:before {
@@ -31,31 +68,77 @@
 	content: "\1f4c5";
 }
 
-.icon-Sum:before {
-	content: "\2211";
+.icon-powergood:before {
+	content: "\e602";
 }
 
-.icon-Save:before {
-	content: "\2356";
+.icon-powerlow:before {
+	content: "\e603";
 }
 
-.icon-Sort:before {
-	content: "\2195";
+.icon-powerbad:before {
+	content: "\e601";
 }
 
-.icon-Mail:before {
-	content: "\2709";
-}
-
-.icon-Menu:before {
-	content: "\2261";
-}
-
-.icon-Back:before {
-	content: "\21e6";
-}
-
-.icon-close:before {
+.icon-powerunknows:before {
 	content: "\e600";
+}
+
+.icon-connectiononline:before {
+	content: "\e60b";
+}
+
+.icon-connectionoffline:before {
+	content: "\e60a";
+}
+
+.icon-connectiondiscovered .path1:before {
+	content: "\e604";
+	color: rgb(255, 200, 0);
+}
+.icon-connectiondiscovered .path2:before {
+	content: "\e605";
+	margin-left: -1em;
+	color: rgb(255, 200, 0);
+}
+.icon-connectiondiscovered .path3:before {
+	content: "\e606";
+	margin-left: -1em;
+	color: rgb(255, 200, 0);
+}
+.icon-connectiondiscovered .path4:before {
+	content: "\e607";
+	margin-left: -1em;
+	color: rgb(128, 128, 128);
+}
+.icon-connectiondiscovered .path5:before {
+	content: "\e608";
+	margin-left: -1em;
+	color: rgb(128, 128, 128);
+}
+.icon-connectiondiscovered .path6:before {
+	content: "\e609";
+	margin-left: -1em;
+	color: rgb(128, 128, 128);
+}
+
+.icon-connctionunknown .path1:before {
+	content: "\e60c";
+	color: rgb(178, 178, 178);
+}
+.icon-connctionunknown .path2:before {
+	content: "\e60d";
+	margin-left: -1em;
+	color: rgb(68, 68, 68);
+}
+.icon-connctionunknown .path3:before {
+	content: "\e60e";
+	margin-left: -1em;
+	color: rgb(178, 178, 178);
+}
+.icon-connctionunknown .path4:before {
+	content: "\e60f";
+	margin-left: -1em;
+	color: rgb(178, 178, 178);
 }
 

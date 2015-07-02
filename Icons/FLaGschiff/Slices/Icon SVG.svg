@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" width="256" height="256" viewBox="0 0 256.00 256.00" enable-background="new 0 0 256.00 256.00" xml:space="preserve">
+	<path fill="#E6003C" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 35.678,6.61214e-005L 256.086,0.0299123L 220.053,256L -0.313558,256.412L 35.678,6.61214e-005 Z "/>
+	<rect x="79.9999" y="68" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="96" height="12"/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 175.976,67.9937L 187.976,67.9937L 187.976,125.355L 175.976,125.355L 175.976,67.9937 Z "/>
+	<rect x="68.0774" y="67.9839" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="12" height="57.5895"/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 116,48L 140,48L 140,72L 116,72L 116,48 Z "/>
+	<rect x="116" y="32.0001" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="24" height="8"/>
+	<rect x="95.9999" y="88" fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" width="64" height="7.99998"/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 43.0405,192.703C 49.4633,196.606 55.8861,200.509 62.2442,198.558C 68.6022,196.606 74.8955,188.801 81.0909,188.801C 87.2863,188.801 93.3838,196.606 99.6114,196.606C 105.839,196.606 112.197,188.801 118.522,188.801C 124.848,188.801 131.141,196.606 137.435,196.606C 143.728,196.606 150.022,188.801 156.315,188.801C 162.608,188.801 168.901,196.606 175.26,196.606C 181.619,196.606 188.043,188.801 194.337,186.849C 200.631,184.898 206.795,188.801 212.959,192.703L 212.959,206.084C 206.73,202.182 200.5,198.279 194.206,200.23C 187.912,202.182 181.553,209.987 175.26,209.987C 168.967,209.987 162.739,202.182 156.479,202.182C 150.218,202.182 143.926,209.987 137.567,209.987C 131.209,209.987 124.784,202.182 118.457,202.182C 112.131,202.182 105.903,209.987 99.6752,209.987C 93.4473,209.987 87.2193,202.182 80.992,202.182C 74.7647,202.182 68.5382,209.987 62.2131,211.938C 55.8879,213.89 49.4642,209.987 43.0405,206.084L 43.0405,192.703 Z "/>
+	<path fill="#FFFFFF" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 128,96.639L 198.799,120.045L 170.48,197.565L 85.5204,197.565L 57.2007,120.045L 128,96.639 Z M 127.954,112.493L 127.995,198L 152.607,198L 179.509,130.595L 127.954,112.493 Z "/>
+</svg>
